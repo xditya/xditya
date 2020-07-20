@@ -1,4 +1,4 @@
-### Hello there 👋
+### Hello there <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">
 [![telegram badge](https://img.shields.io/badge/xditya-30302f?style=flat&logo=telegram)](https://t.me/xditya)
 
 ![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/xditya/)
