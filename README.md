@@ -1,11 +1,11 @@
-<h1 align="center">Hi 👋, I'm Aditya</h1>
+<h1 align="center">Hi 👋 I'm Aditya</h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=xditya&label=Profile%20views&color=0e75b6&style=plastic" alt="xditya" /> </p>
 
-- 🔭 I’m currently working on [TeleBot](https://github.com/xditya/TeleBot)
+- 🔭 I’m currently working on [Ultroid](https://github.com/TeamUltroid)
 
-- 🌐 Website [https://xditya.tk/](https://xditya.tk/)
+- 🌐 Website [https://xditya.me/](https://xditya.me/)
 
-- 📫 How to reach me **Telegram - [@xditya](https://t.me/xditya)**
+- 📫 How to reach me **Telegram - [@xditya](https://t.me/its_xditya)**
 
 - ⚡ Fun fact **I'm a noob.**
 
