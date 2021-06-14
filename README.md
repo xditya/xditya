@@ -15,6 +15,6 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=xditya&show_icons=true&theme=tokyonight&locale=en&layout=compact" alt="xditya", width="250", height="250" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=xditya&show_icons=true&theme=tokyonight&locale=en" alt="xditya", width="300", height="300" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=xditya&show_icons=true&include_all_commits=true&theme=tokyonight&cache_seconds=86400" alt="xditya", width="300", height="300" /></p>
 
 <p align="centre"> <a href='https://ko-fi.com/xditya' target='_blank'><img height='35' style='border:0px;height:40px;' src='https://az743702.vo.msecnd.net/cdn/kofi3.png?v=0' border='0' alt='Buy Me a Coffee'/> </p>
