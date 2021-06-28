@@ -26,6 +26,7 @@
 </br>
 
 ### 🎥 Latest YouTube Videos:
+
 <!-- YouTube:START -->
 - [Deploy Ultroid on a VPS/Local Machine | Telegram UserBot | TheUltroid](https://www.youtube.com/watch?v=QfdZiQEWmSo)
 - [Deploy Ultroid to Heroku | Telegram UserBot | Ultroid](https://www.youtube.com/watch?v=9wF7k9qA0Q4)
@@ -38,6 +39,7 @@
 </br>
 
 ### 💻 Latest Activities:
+
 <!--START_SECTION:activity-->
 1. 🎉 Merged PR [#102](https://github.com/TeamUltroid/Ultroid/pull/102) in [TeamUltroid/Ultroid](https://github.com/TeamUltroid/Ultroid)
 2. 💪 Opened PR [#102](https://github.com/TeamUltroid/Ultroid/pull/102) in [TeamUltroid/Ultroid](https://github.com/TeamUltroid/Ultroid)
