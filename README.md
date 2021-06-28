@@ -24,6 +24,11 @@
 
 ### 🎥 Latest YouTube Videos:
 <!-- YouTube:START -->
+- [Deploy Ultroid on a VPS/Local Machine | Telegram UserBot | TheUltroid](https://www.youtube.com/watch?v=QfdZiQEWmSo)
+- [Deploy Ultroid to Heroku | Telegram UserBot | Ultroid](https://www.youtube.com/watch?v=9wF7k9qA0Q4)
+- [Deploy your own GitHub Bot | Telegram | GitGram](https://www.youtube.com/watch?v=mp3oTG8DC58)
+- [Deploy Your Own LivegramBot || NoPMsBot || Telegram Bot Tutorial](https://www.youtube.com/watch?v=scFG1Vg_pEo)
+- [Logo Making Tutorial | On PixelLab | Android | Text logo tutorial](https://www.youtube.com/watch?v=kuDGBrpnXKk)
 <!-- YouTube:END -->
 
 ➕ [View More...](https://youtube.com/xditya)
