@@ -15,7 +15,7 @@
 <img align="left" alt="xditya's Most used Languages" src="https://github-readme-stats.vercel.app/api?username=xditya&show_icons=true&include_all_commits=true&theme=tokyonight&cache_seconds=86400t" />
 </br>
 <img align="centre" alt="xditya's GitHub Stats" src="https://github-readme-stats.vercel.app/api/top-langs?username=xditya&show_icons=true&theme=tokyonight&locale=en&layout=compact" />
-
+</br>
 
 ### 🔗 Connect with me:
 
