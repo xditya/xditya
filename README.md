@@ -23,8 +23,8 @@
 </br>
 
 ### 🎥 Latest YouTube Videos:
-<!-- YOUTUBE:START -->
-<!-- YOUTUBE:END -->
+<!-- YouTube:START -->
+<!-- YouTube:END -->
 
 ➕ [View More...](https://youtube.com/xditya)
 
