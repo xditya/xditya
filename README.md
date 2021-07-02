@@ -38,11 +38,11 @@
 ### 💻 Latest Activities:
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#1](https://github.com/xditya/VCBot/pull/1) in [xditya/VCBot](https://github.com/xditya/VCBot)
-2. 🎉 Merged PR [#2](https://github.com/xditya/VCBot/pull/2) in [xditya/VCBot](https://github.com/xditya/VCBot)
-3. 💪 Opened PR [#106](https://github.com/TeamUltroid/Ultroid/pull/106) in [TeamUltroid/Ultroid](https://github.com/TeamUltroid/Ultroid)
-4. 🎉 Merged PR [#102](https://github.com/TeamUltroid/Ultroid/pull/102) in [TeamUltroid/Ultroid](https://github.com/TeamUltroid/Ultroid)
-5. 💪 Opened PR [#102](https://github.com/TeamUltroid/Ultroid/pull/102) in [TeamUltroid/Ultroid](https://github.com/TeamUltroid/Ultroid)
+1. 🎉 Merged PR [#4](https://github.com/xditya/VCBot/pull/4) in [xditya/VCBot](https://github.com/xditya/VCBot)
+2. 🎉 Merged PR [#3](https://github.com/xditya/VCBot/pull/3) in [xditya/VCBot](https://github.com/xditya/VCBot)
+3. 🎉 Merged PR [#1](https://github.com/xditya/VCBot/pull/1) in [xditya/VCBot](https://github.com/xditya/VCBot)
+4. 🎉 Merged PR [#2](https://github.com/xditya/VCBot/pull/2) in [xditya/VCBot](https://github.com/xditya/VCBot)
+5. 💪 Opened PR [#106](https://github.com/TeamUltroid/Ultroid/pull/106) in [TeamUltroid/Ultroid](https://github.com/TeamUltroid/Ultroid)
 <!--END_SECTION:activity-->
 
 ---
