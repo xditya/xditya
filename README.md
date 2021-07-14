@@ -38,11 +38,11 @@
 ### 💻 Latest Activities:
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#4](https://github.com/xditya/VCBot/pull/4) in [xditya/VCBot](https://github.com/xditya/VCBot)
-2. 🎉 Merged PR [#3](https://github.com/xditya/VCBot/pull/3) in [xditya/VCBot](https://github.com/xditya/VCBot)
-3. 🎉 Merged PR [#1](https://github.com/xditya/VCBot/pull/1) in [xditya/VCBot](https://github.com/xditya/VCBot)
-4. 🎉 Merged PR [#2](https://github.com/xditya/VCBot/pull/2) in [xditya/VCBot](https://github.com/xditya/VCBot)
-5. 💪 Opened PR [#106](https://github.com/TeamUltroid/Ultroid/pull/106) in [TeamUltroid/Ultroid](https://github.com/TeamUltroid/Ultroid)
+1. 💪 Opened PR [#1](https://github.com/Hellboy-Aaryan/Georgina/pull/1) in [Hellboy-Aaryan/Georgina](https://github.com/Hellboy-Aaryan/Georgina)
+2. 🎉 Merged PR [#1](https://github.com/xditya/Georgina/pull/1) in [xditya/Georgina](https://github.com/xditya/Georgina)
+3. 💪 Opened PR [#1](https://github.com/xditya/Georgina/pull/1) in [xditya/Georgina](https://github.com/xditya/Georgina)
+4. 🎉 Merged PR [#4](https://github.com/xditya/VCBot/pull/4) in [xditya/VCBot](https://github.com/xditya/VCBot)
+5. 🎉 Merged PR [#3](https://github.com/xditya/VCBot/pull/3) in [xditya/VCBot](https://github.com/xditya/VCBot)
 <!--END_SECTION:activity-->
 
 ---
