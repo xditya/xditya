@@ -38,11 +38,11 @@
 ### 💻 Latest Activities:
 
 <!--START_SECTION:activity-->
-1. ❗️ Closed issue [#1](https://github.com/xditya/JavaTests/issues/1) in [xditya/JavaTests](https://github.com/xditya/JavaTests)
-2. 💪 Opened PR [#1](https://github.com/Hellboy-Aaryan/Georgina/pull/1) in [Hellboy-Aaryan/Georgina](https://github.com/Hellboy-Aaryan/Georgina)
-3. 🎉 Merged PR [#1](https://github.com/xditya/Georgina/pull/1) in [xditya/Georgina](https://github.com/xditya/Georgina)
-4. 💪 Opened PR [#1](https://github.com/xditya/Georgina/pull/1) in [xditya/Georgina](https://github.com/xditya/Georgina)
-5. 🎉 Merged PR [#4](https://github.com/xditya/VCBot/pull/4) in [xditya/VCBot](https://github.com/xditya/VCBot)
+1. 🎉 Merged PR [#1](https://github.com/xditya/SideLoad/pull/1) in [xditya/SideLoad](https://github.com/xditya/SideLoad)
+2. ❗️ Closed issue [#1](https://github.com/xditya/JavaTests/issues/1) in [xditya/JavaTests](https://github.com/xditya/JavaTests)
+3. 💪 Opened PR [#1](https://github.com/Hellboy-Aaryan/Georgina/pull/1) in [Hellboy-Aaryan/Georgina](https://github.com/Hellboy-Aaryan/Georgina)
+4. 🎉 Merged PR [#1](https://github.com/xditya/Georgina/pull/1) in [xditya/Georgina](https://github.com/xditya/Georgina)
+5. 💪 Opened PR [#1](https://github.com/xditya/Georgina/pull/1) in [xditya/Georgina](https://github.com/xditya/Georgina)
 <!--END_SECTION:activity-->
 
 ---
