@@ -38,11 +38,11 @@
 ### 💻 Latest Activities:
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#116](https://github.com/TeamUltroid/Ultroid/pull/116) in [TeamUltroid/Ultroid](https://github.com/TeamUltroid/Ultroid)
-2. 💪 Opened PR [#116](https://github.com/TeamUltroid/Ultroid/pull/116) in [TeamUltroid/Ultroid](https://github.com/TeamUltroid/Ultroid)
-3. ❌ Closed PR [#1](https://github.com/xditya/Ultroid-1/pull/1) in [xditya/Ultroid-1](https://github.com/xditya/Ultroid-1)
-4. 💪 Opened PR [#1](https://github.com/xditya/Ultroid-1/pull/1) in [xditya/Ultroid-1](https://github.com/xditya/Ultroid-1)
-5. 🎉 Merged PR [#2](https://github.com/xditya/SideLoad/pull/2) in [xditya/SideLoad](https://github.com/xditya/SideLoad)
+1. 🎉 Merged PR [#2](https://github.com/xditya/Ultroid-1/pull/2) in [xditya/Ultroid-1](https://github.com/xditya/Ultroid-1)
+2. 💪 Opened PR [#2](https://github.com/xditya/Ultroid-1/pull/2) in [xditya/Ultroid-1](https://github.com/xditya/Ultroid-1)
+3. 🎉 Merged PR [#116](https://github.com/TeamUltroid/Ultroid/pull/116) in [TeamUltroid/Ultroid](https://github.com/TeamUltroid/Ultroid)
+4. 💪 Opened PR [#116](https://github.com/TeamUltroid/Ultroid/pull/116) in [TeamUltroid/Ultroid](https://github.com/TeamUltroid/Ultroid)
+5. ❌ Closed PR [#1](https://github.com/xditya/Ultroid-1/pull/1) in [xditya/Ultroid-1](https://github.com/xditya/Ultroid-1)
 <!--END_SECTION:activity-->
 
 ---
