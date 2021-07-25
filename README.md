@@ -38,11 +38,11 @@
 ### 💻 Latest Activities:
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#50](https://github.com/Qovery/documentation/pull/50) in [Qovery/documentation](https://github.com/Qovery/documentation)
-2. ❌ Closed PR [#7](https://github.com/xditya/ChannelAutoPost/pull/7) in [xditya/ChannelAutoPost](https://github.com/xditya/ChannelAutoPost)
-3. 🗣 Commented on [#7](https://github.com/xditya/ChannelAutoPost/issues/7) in [xditya/ChannelAutoPost](https://github.com/xditya/ChannelAutoPost)
-4. 💪 Opened PR [#2](https://github.com/TechiError/ultroid-cred-example/pull/2) in [TechiError/ultroid-cred-example](https://github.com/TechiError/ultroid-cred-example)
-5. 🎉 Merged PR [#2](https://github.com/xditya/Ultroid-1/pull/2) in [xditya/Ultroid-1](https://github.com/xditya/Ultroid-1)
+1. 🎉 Merged PR [#5](https://github.com/xditya/SideLoad/pull/5) in [xditya/SideLoad](https://github.com/xditya/SideLoad)
+2. 💪 Opened PR [#50](https://github.com/Qovery/documentation/pull/50) in [Qovery/documentation](https://github.com/Qovery/documentation)
+3. ❌ Closed PR [#7](https://github.com/xditya/ChannelAutoPost/pull/7) in [xditya/ChannelAutoPost](https://github.com/xditya/ChannelAutoPost)
+4. 🗣 Commented on [#7](https://github.com/xditya/ChannelAutoPost/issues/7) in [xditya/ChannelAutoPost](https://github.com/xditya/ChannelAutoPost)
+5. 💪 Opened PR [#2](https://github.com/TechiError/ultroid-cred-example/pull/2) in [TechiError/ultroid-cred-example](https://github.com/TechiError/ultroid-cred-example)
 <!--END_SECTION:activity-->
 
 ---
