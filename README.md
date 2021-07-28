@@ -1,18 +1,11 @@
-## Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="25px"> I'm [Aditya](https://xditya.me) || [![Profile views](https://komarev.com/ghpvc/?username=xditya&label=Profile%20views)](https://github.com/xditya)
+## Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="25px"> I'm [Aditya](https://xditya.me) | [![Profile views](https://komarev.com/ghpvc/?username=xditya&label=Profile%20views)](https://github.com/xditya)
    
 - 💫 I’m currently working on [Ultroid](https://github.com/TeamUltroid)
 - 📫 [Connect with me](#-connect-with-me).
 - ⚡ Always ready to help!
 ---
 
-<style type="text/css"> 
-  .padded img { 
-    padding-left: 2px; 
-    padding-right: 2px; 
-  } 
-  </style> 
-
-## 🛠️ Languages and tools:
+## 🛠️ Languages and tools
 </br>
 <a href="https://developer.android.com" class="padded" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="30" height="30"/> </a> 
 <a href="https://www.gnu.org/software/bash/" class="padded" target="_blank"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="30" height="30"/> </a> 
@@ -28,12 +21,12 @@
 <a href="https://redis.io" class="padded" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg" alt="redis" width="30" height="30"/> </a>
 
 ---
-## 📊 Stats:
+## 📊 Stats
 
 [![Metrics](https://metrics.lecoq.io/xditya?template=classic&base.header=0&base.metadata=0&isocalendar=1&languages=1&people=1&isocalendar.duration=half-year&languages.limit=8&languages.sections=most-used&languages.colors=github&languages.threshold=0%25&languages.indepth=false&languages.recent.load=300&languages.recent.days=14&people.limit=24&people.size=28&people.types=followers%2C%20following&people.identicons=false&people.shuffle=false&config.timezone=Asia%2FCalcutta)](https://xditya.me)
 
 ---
-## 🔗 Connect with me:
+## 🔗 Connect with me
 
 <!-- png icons from https://iconscout.com/ -->
 <a href="https://xditya.me" class="padded"><img align="left" alt="https://xditya.me" width="28px" src="./res/website.png" /></a> 
@@ -43,7 +36,7 @@
 </br>
 
 ---
-## 🎥 Latest YouTube Videos:
+## 🎥 Latest YouTube Videos
 
 <!-- YouTube:START -->
 - [Deploy Ultroid to Qovery | Telegram UserBot](https://www.youtube.com/watch?v=ryMptDTwVEg)
@@ -55,7 +48,7 @@
 > ➕ [View More...](https://youtube.com/xditya)
 
 ---
-## 💻 Latest Activities:
+## 💻 Latest Activities
 
 <!--START_SECTION:activity-->
 1. 🎉 Merged PR [#1](https://github.com/xditya/CowinNotif/pull/1) in [xditya/CowinNotif](https://github.com/xditya/CowinNotif)
@@ -66,7 +59,14 @@
 <!--END_SECTION:activity-->
 
 ---
-## 💰 Support Me:
-</br>
+
+## 🎵 Now playing
+
+[![Spotify](https://spotify-readme-3s61yj059-xditya.vercel.app/api/spotify)](https://open.spotify.com/user/on84l0syf9y9m2m84unz4h8uq)
+
+---
+
+## 💰 Support Me
+
 <a href="https://ko-fi.com/xditya" class="padded"><img height="30" style="border:0px;height:30px;" align="left" alt="xditya" src="https://az743702.vo.msecnd.net/cdn/kofi3.png?v=0" /></a>
 <a href="https://www.paypal.me/xditya7" class="padded"><img height="30" style="border:0px;height:30px;" align="centre" alt="xditya" src="https://cdn.rawgit.com/twolfson/paypal-github-button/1.0.0/dist/button.svg" /></a>
