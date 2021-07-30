@@ -51,11 +51,11 @@
 ## 💻 Latest Activities
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#1](https://github.com/xditya/CowinNotif/pull/1) in [xditya/CowinNotif](https://github.com/xditya/CowinNotif)
-2. 🎉 Merged PR [#5](https://github.com/xditya/SideLoad/pull/5) in [xditya/SideLoad](https://github.com/xditya/SideLoad)
-3. 💪 Opened PR [#50](https://github.com/Qovery/documentation/pull/50) in [Qovery/documentation](https://github.com/Qovery/documentation)
-4. ❌ Closed PR [#7](https://github.com/xditya/ChannelAutoPost/pull/7) in [xditya/ChannelAutoPost](https://github.com/xditya/ChannelAutoPost)
-5. 🗣 Commented on [#7](https://github.com/xditya/ChannelAutoPost/issues/7) in [xditya/ChannelAutoPost](https://github.com/xditya/ChannelAutoPost)
+1. 💪 Opened PR [#118](https://github.com/MarshalX/tgcalls/pull/118) in [MarshalX/tgcalls](https://github.com/MarshalX/tgcalls)
+2. 🎉 Merged PR [#1](https://github.com/xditya/CowinNotif/pull/1) in [xditya/CowinNotif](https://github.com/xditya/CowinNotif)
+3. 🎉 Merged PR [#5](https://github.com/xditya/SideLoad/pull/5) in [xditya/SideLoad](https://github.com/xditya/SideLoad)
+4. 💪 Opened PR [#50](https://github.com/Qovery/documentation/pull/50) in [Qovery/documentation](https://github.com/Qovery/documentation)
+5. ❌ Closed PR [#7](https://github.com/xditya/ChannelAutoPost/pull/7) in [xditya/ChannelAutoPost](https://github.com/xditya/ChannelAutoPost)
 <!--END_SECTION:activity-->
 
 ---
