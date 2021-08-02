@@ -51,11 +51,11 @@
 ## 💻 Latest Activities
 
 <!--START_SECTION:activity-->
-1. ❌ Closed PR [#120](https://github.com/MarshalX/tgcalls/pull/120) in [MarshalX/tgcalls](https://github.com/MarshalX/tgcalls)
-2. 🗣 Commented on [#120](https://github.com/MarshalX/tgcalls/issues/120) in [MarshalX/tgcalls](https://github.com/MarshalX/tgcalls)
-3. 💪 Opened PR [#120](https://github.com/MarshalX/tgcalls/pull/120) in [MarshalX/tgcalls](https://github.com/MarshalX/tgcalls)
-4. ❌ Closed PR [#118](https://github.com/MarshalX/tgcalls/pull/118) in [MarshalX/tgcalls](https://github.com/MarshalX/tgcalls)
-5. 🗣 Commented on [#118](https://github.com/MarshalX/tgcalls/issues/118) in [MarshalX/tgcalls](https://github.com/MarshalX/tgcalls)
+1. ❌ Closed PR [#71](https://github.com/TeamUltroid/UltroidAddons/pull/71) in [TeamUltroid/UltroidAddons](https://github.com/TeamUltroid/UltroidAddons)
+2. 🗣 Commented on [#71](https://github.com/TeamUltroid/UltroidAddons/issues/71) in [TeamUltroid/UltroidAddons](https://github.com/TeamUltroid/UltroidAddons)
+3. ❌ Closed PR [#120](https://github.com/MarshalX/tgcalls/pull/120) in [MarshalX/tgcalls](https://github.com/MarshalX/tgcalls)
+4. 🗣 Commented on [#120](https://github.com/MarshalX/tgcalls/issues/120) in [MarshalX/tgcalls](https://github.com/MarshalX/tgcalls)
+5. 💪 Opened PR [#120](https://github.com/MarshalX/tgcalls/pull/120) in [MarshalX/tgcalls](https://github.com/MarshalX/tgcalls)
 <!--END_SECTION:activity-->
 
 ---
