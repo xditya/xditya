@@ -51,11 +51,11 @@
 ## 💻 Latest Activities
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#1](https://github.com/xditya/ContactAdder/pull/1) in [xditya/ContactAdder](https://github.com/xditya/ContactAdder)
-2. 🎉 Merged PR [#1](https://github.com/xditya/HTMLWebShotBot/pull/1) in [xditya/HTMLWebShotBot](https://github.com/xditya/HTMLWebShotBot)
-3. 🎉 Merged PR [#7](https://github.com/xditya/SideLoad/pull/7) in [xditya/SideLoad](https://github.com/xditya/SideLoad)
-4. 🗣 Commented on [#127](https://github.com/TeamUltroid/Ultroid/issues/127) in [TeamUltroid/Ultroid](https://github.com/TeamUltroid/Ultroid)
-5. 🎉 Merged PR [#6](https://github.com/xditya/SideLoad/pull/6) in [xditya/SideLoad](https://github.com/xditya/SideLoad)
+1. ❌ Closed PR [#130](https://github.com/TeamUltroid/Ultroid/pull/130) in [TeamUltroid/Ultroid](https://github.com/TeamUltroid/Ultroid)
+2. 🗣 Commented on [#130](https://github.com/TeamUltroid/Ultroid/issues/130) in [TeamUltroid/Ultroid](https://github.com/TeamUltroid/Ultroid)
+3. 🎉 Merged PR [#1](https://github.com/xditya/ContactAdder/pull/1) in [xditya/ContactAdder](https://github.com/xditya/ContactAdder)
+4. 🎉 Merged PR [#1](https://github.com/xditya/HTMLWebShotBot/pull/1) in [xditya/HTMLWebShotBot](https://github.com/xditya/HTMLWebShotBot)
+5. 🎉 Merged PR [#7](https://github.com/xditya/SideLoad/pull/7) in [xditya/SideLoad](https://github.com/xditya/SideLoad)
 <!--END_SECTION:activity-->
 
 ---
