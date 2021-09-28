@@ -51,11 +51,11 @@
 ## 💻 Latest Activities
 
 <!--START_SECTION:activity-->
-1. ❌ Closed PR [#4](https://github.com/xditya/BotStatus/pull/4) in [xditya/BotStatus](https://github.com/xditya/BotStatus)
-2. 🗣 Commented on [#4](https://github.com/xditya/BotStatus/issues/4) in [xditya/BotStatus](https://github.com/xditya/BotStatus)
-3. ❌ Closed PR [#83](https://github.com/TeamUltroid/UltroidAddons/pull/83) in [TeamUltroid/UltroidAddons](https://github.com/TeamUltroid/UltroidAddons)
-4. ❌ Reopened PR [#80](https://github.com/TeamUltroid/UltroidAddons/pull/80) in [TeamUltroid/UltroidAddons](https://github.com/TeamUltroid/UltroidAddons)
-5. ❌ Closed PR [#80](https://github.com/TeamUltroid/UltroidAddons/pull/80) in [TeamUltroid/UltroidAddons](https://github.com/TeamUltroid/UltroidAddons)
+1. ❌ Reopened PR [#159](https://github.com/TeamUltroid/Ultroid/pull/159) in [TeamUltroid/Ultroid](https://github.com/TeamUltroid/Ultroid)
+2. 🗣 Commented on [#159](https://github.com/TeamUltroid/Ultroid/issues/159) in [TeamUltroid/Ultroid](https://github.com/TeamUltroid/Ultroid)
+3. ❌ Closed PR [#4](https://github.com/xditya/BotStatus/pull/4) in [xditya/BotStatus](https://github.com/xditya/BotStatus)
+4. 🗣 Commented on [#4](https://github.com/xditya/BotStatus/issues/4) in [xditya/BotStatus](https://github.com/xditya/BotStatus)
+5. ❌ Closed PR [#83](https://github.com/TeamUltroid/UltroidAddons/pull/83) in [TeamUltroid/UltroidAddons](https://github.com/TeamUltroid/UltroidAddons)
 <!--END_SECTION:activity-->
 
 ---
