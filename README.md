@@ -51,11 +51,11 @@
 ## 💻 Latest Activities
 
 <!--START_SECTION:activity-->
-1. ❌ Closed PR [#177](https://github.com/TeamUltroid/Ultroid/pull/177) in [TeamUltroid/Ultroid](https://github.com/TeamUltroid/Ultroid)
-2. 🗣 Commented on [#177](https://github.com/TeamUltroid/Ultroid/issues/177) in [TeamUltroid/Ultroid](https://github.com/TeamUltroid/Ultroid)
+1. 🗣 Commented on [#1](https://github.com/xditya/YouTubeFeeds/issues/1) in [xditya/YouTubeFeeds](https://github.com/xditya/YouTubeFeeds)
+2. ❌ Closed PR [#177](https://github.com/TeamUltroid/Ultroid/pull/177) in [TeamUltroid/Ultroid](https://github.com/TeamUltroid/Ultroid)
 3. 🗣 Commented on [#177](https://github.com/TeamUltroid/Ultroid/issues/177) in [TeamUltroid/Ultroid](https://github.com/TeamUltroid/Ultroid)
-4. ❌ Closed PR [#2](https://github.com/xditya/ForceSub/pull/2) in [xditya/ForceSub](https://github.com/xditya/ForceSub)
-5. ❌ Reopened PR [#159](https://github.com/TeamUltroid/Ultroid/pull/159) in [TeamUltroid/Ultroid](https://github.com/TeamUltroid/Ultroid)
+4. 🗣 Commented on [#177](https://github.com/TeamUltroid/Ultroid/issues/177) in [TeamUltroid/Ultroid](https://github.com/TeamUltroid/Ultroid)
+5. ❌ Closed PR [#2](https://github.com/xditya/ForceSub/pull/2) in [xditya/ForceSub](https://github.com/xditya/ForceSub)
 <!--END_SECTION:activity-->
 
 ---
