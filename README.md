@@ -51,10 +51,10 @@
 ## 💻 Latest Activities
 
 <!--START_SECTION:activity-->
-1. ❗️ Closed issue [#57](https://github.com/xditya/GroupManager/issues/57) in [xditya/GroupManager](https://github.com/xditya/GroupManager)
-2. 🗣 Commented on [#1](https://github.com/xditya/YouTubeFeeds/issues/1) in [xditya/YouTubeFeeds](https://github.com/xditya/YouTubeFeeds)
-3. ❌ Closed PR [#177](https://github.com/TeamUltroid/Ultroid/pull/177) in [TeamUltroid/Ultroid](https://github.com/TeamUltroid/Ultroid)
-4. 🗣 Commented on [#177](https://github.com/TeamUltroid/Ultroid/issues/177) in [TeamUltroid/Ultroid](https://github.com/TeamUltroid/Ultroid)
+1. ❌ Closed PR [#55](https://github.com/xditya/GroupManager/pull/55) in [xditya/GroupManager](https://github.com/xditya/GroupManager)
+2. ❗️ Closed issue [#57](https://github.com/xditya/GroupManager/issues/57) in [xditya/GroupManager](https://github.com/xditya/GroupManager)
+3. 🗣 Commented on [#1](https://github.com/xditya/YouTubeFeeds/issues/1) in [xditya/YouTubeFeeds](https://github.com/xditya/YouTubeFeeds)
+4. ❌ Closed PR [#177](https://github.com/TeamUltroid/Ultroid/pull/177) in [TeamUltroid/Ultroid](https://github.com/TeamUltroid/Ultroid)
 5. 🗣 Commented on [#177](https://github.com/TeamUltroid/Ultroid/issues/177) in [TeamUltroid/Ultroid](https://github.com/TeamUltroid/Ultroid)
 <!--END_SECTION:activity-->
 
