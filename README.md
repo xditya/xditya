@@ -51,11 +51,11 @@
 ## 💻 Latest Activities
 
 <!--START_SECTION:activity-->
-1. ❗️ Closed issue [#2](https://github.com/xditya/TelethonBot/issues/2) in [xditya/TelethonBot](https://github.com/xditya/TelethonBot)
-2. ❌ Closed PR [#55](https://github.com/xditya/GroupManager/pull/55) in [xditya/GroupManager](https://github.com/xditya/GroupManager)
-3. ❗️ Closed issue [#57](https://github.com/xditya/GroupManager/issues/57) in [xditya/GroupManager](https://github.com/xditya/GroupManager)
-4. 🗣 Commented on [#1](https://github.com/xditya/YouTubeFeeds/issues/1) in [xditya/YouTubeFeeds](https://github.com/xditya/YouTubeFeeds)
-5. ❌ Closed PR [#177](https://github.com/TeamUltroid/Ultroid/pull/177) in [TeamUltroid/Ultroid](https://github.com/TeamUltroid/Ultroid)
+1. 🗣 Commented on [#3](https://github.com/xditya/TelethonBot/issues/3) in [xditya/TelethonBot](https://github.com/xditya/TelethonBot)
+2. 🎉 Merged PR [#3](https://github.com/xditya/TelethonBot/pull/3) in [xditya/TelethonBot](https://github.com/xditya/TelethonBot)
+3. ❗️ Closed issue [#2](https://github.com/xditya/TelethonBot/issues/2) in [xditya/TelethonBot](https://github.com/xditya/TelethonBot)
+4. ❌ Closed PR [#55](https://github.com/xditya/GroupManager/pull/55) in [xditya/GroupManager](https://github.com/xditya/GroupManager)
+5. ❗️ Closed issue [#57](https://github.com/xditya/GroupManager/issues/57) in [xditya/GroupManager](https://github.com/xditya/GroupManager)
 <!--END_SECTION:activity-->
 
 ---
