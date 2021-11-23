@@ -51,11 +51,11 @@
 ## 💻 Latest Activities
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#4](https://github.com/xditya/TelethonBot/issues/4) in [xditya/TelethonBot](https://github.com/xditya/TelethonBot)
-2. 💪 Opened PR [#5](https://github.com/BLUE-DEVIL1134/UltroidCli/pull/5) in [BLUE-DEVIL1134/UltroidCli](https://github.com/BLUE-DEVIL1134/UltroidCli)
-3. 🗣 Commented on [#3](https://github.com/xditya/TelethonBot/issues/3) in [xditya/TelethonBot](https://github.com/xditya/TelethonBot)
-4. 🎉 Merged PR [#3](https://github.com/xditya/TelethonBot/pull/3) in [xditya/TelethonBot](https://github.com/xditya/TelethonBot)
-5. ❗️ Closed issue [#2](https://github.com/xditya/TelethonBot/issues/2) in [xditya/TelethonBot](https://github.com/xditya/TelethonBot)
+1. ❗️ Closed issue [#9](https://github.com/xditya/ChannelAutoPost/issues/9) in [xditya/ChannelAutoPost](https://github.com/xditya/ChannelAutoPost)
+2. 🗣 Commented on [#9](https://github.com/xditya/ChannelAutoPost/issues/9) in [xditya/ChannelAutoPost](https://github.com/xditya/ChannelAutoPost)
+3. 🗣 Commented on [#4](https://github.com/xditya/TelethonBot/issues/4) in [xditya/TelethonBot](https://github.com/xditya/TelethonBot)
+4. 💪 Opened PR [#5](https://github.com/BLUE-DEVIL1134/UltroidCli/pull/5) in [BLUE-DEVIL1134/UltroidCli](https://github.com/BLUE-DEVIL1134/UltroidCli)
+5. 🗣 Commented on [#3](https://github.com/xditya/TelethonBot/issues/3) in [xditya/TelethonBot](https://github.com/xditya/TelethonBot)
 <!--END_SECTION:activity-->
 
 ---
