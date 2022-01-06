@@ -51,11 +51,11 @@
 ## 💻 Latest Activities
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#1](https://github.com/TeamUltroid/UltroidWorkflow/issues/1) in [TeamUltroid/UltroidWorkflow](https://github.com/TeamUltroid/UltroidWorkflow)
+1. 🗣 Commented on [#59](https://github.com/xditya/GroupManager/issues/59) in [xditya/GroupManager](https://github.com/xditya/GroupManager)
 2. 🗣 Commented on [#1](https://github.com/TeamUltroid/UltroidWorkflow/issues/1) in [TeamUltroid/UltroidWorkflow](https://github.com/TeamUltroid/UltroidWorkflow)
-3. 🗣 Commented on [#238](https://github.com/TeamUltroid/Ultroid/issues/238) in [TeamUltroid/Ultroid](https://github.com/TeamUltroid/Ultroid)
-4. ❌ Closed PR [#58](https://github.com/xditya/GroupManager/pull/58) in [xditya/GroupManager](https://github.com/xditya/GroupManager)
-5. 🗣 Commented on [#37](https://github.com/TeamUltroid/pyUltroid/issues/37) in [TeamUltroid/pyUltroid](https://github.com/TeamUltroid/pyUltroid)
+3. 🗣 Commented on [#1](https://github.com/TeamUltroid/UltroidWorkflow/issues/1) in [TeamUltroid/UltroidWorkflow](https://github.com/TeamUltroid/UltroidWorkflow)
+4. 🗣 Commented on [#238](https://github.com/TeamUltroid/Ultroid/issues/238) in [TeamUltroid/Ultroid](https://github.com/TeamUltroid/Ultroid)
+5. ❌ Closed PR [#58](https://github.com/xditya/GroupManager/pull/58) in [xditya/GroupManager](https://github.com/xditya/GroupManager)
 <!--END_SECTION:activity-->
 
 ---
