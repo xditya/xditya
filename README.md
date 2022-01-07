@@ -52,10 +52,10 @@
 
 <!--START_SECTION:activity-->
 1. 🗣 Commented on [#2](https://github.com/xditya/YouTubeFeeds/issues/2) in [xditya/YouTubeFeeds](https://github.com/xditya/YouTubeFeeds)
-2. 🗣 Commented on [#59](https://github.com/xditya/GroupManager/issues/59) in [xditya/GroupManager](https://github.com/xditya/GroupManager)
-3. 🗣 Commented on [#1](https://github.com/TeamUltroid/UltroidWorkflow/issues/1) in [TeamUltroid/UltroidWorkflow](https://github.com/TeamUltroid/UltroidWorkflow)
+2. 🗣 Commented on [#2](https://github.com/xditya/YouTubeFeeds/issues/2) in [xditya/YouTubeFeeds](https://github.com/xditya/YouTubeFeeds)
+3. 🗣 Commented on [#59](https://github.com/xditya/GroupManager/issues/59) in [xditya/GroupManager](https://github.com/xditya/GroupManager)
 4. 🗣 Commented on [#1](https://github.com/TeamUltroid/UltroidWorkflow/issues/1) in [TeamUltroid/UltroidWorkflow](https://github.com/TeamUltroid/UltroidWorkflow)
-5. 🗣 Commented on [#238](https://github.com/TeamUltroid/Ultroid/issues/238) in [TeamUltroid/Ultroid](https://github.com/TeamUltroid/Ultroid)
+5. 🗣 Commented on [#1](https://github.com/TeamUltroid/UltroidWorkflow/issues/1) in [TeamUltroid/UltroidWorkflow](https://github.com/TeamUltroid/UltroidWorkflow)
 <!--END_SECTION:activity-->
 
 ---
