@@ -51,11 +51,11 @@
 ## 💻 Latest Activities
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#103](https://github.com/TeamUltroid/UltroidAddons/issues/103) in [TeamUltroid/UltroidAddons](https://github.com/TeamUltroid/UltroidAddons)
-2. 🗣 Commented on [#2](https://github.com/xditya/YouTubeFeeds/issues/2) in [xditya/YouTubeFeeds](https://github.com/xditya/YouTubeFeeds)
+1. ❌ Closed PR [#11](https://github.com/xditya/ChannelAutoPost/pull/11) in [xditya/ChannelAutoPost](https://github.com/xditya/ChannelAutoPost)
+2. 🗣 Commented on [#103](https://github.com/TeamUltroid/UltroidAddons/issues/103) in [TeamUltroid/UltroidAddons](https://github.com/TeamUltroid/UltroidAddons)
 3. 🗣 Commented on [#2](https://github.com/xditya/YouTubeFeeds/issues/2) in [xditya/YouTubeFeeds](https://github.com/xditya/YouTubeFeeds)
-4. 🗣 Commented on [#59](https://github.com/xditya/GroupManager/issues/59) in [xditya/GroupManager](https://github.com/xditya/GroupManager)
-5. 🗣 Commented on [#1](https://github.com/TeamUltroid/UltroidWorkflow/issues/1) in [TeamUltroid/UltroidWorkflow](https://github.com/TeamUltroid/UltroidWorkflow)
+4. 🗣 Commented on [#2](https://github.com/xditya/YouTubeFeeds/issues/2) in [xditya/YouTubeFeeds](https://github.com/xditya/YouTubeFeeds)
+5. 🗣 Commented on [#59](https://github.com/xditya/GroupManager/issues/59) in [xditya/GroupManager](https://github.com/xditya/GroupManager)
 <!--END_SECTION:activity-->
 
 ---
