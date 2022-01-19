@@ -51,11 +51,11 @@
 ## 💻 Latest Activities
 
 <!--START_SECTION:activity-->
-1. ❌ Closed PR [#11](https://github.com/xditya/ChannelAutoPost/pull/11) in [xditya/ChannelAutoPost](https://github.com/xditya/ChannelAutoPost)
-2. 🗣 Commented on [#103](https://github.com/TeamUltroid/UltroidAddons/issues/103) in [TeamUltroid/UltroidAddons](https://github.com/TeamUltroid/UltroidAddons)
-3. 🗣 Commented on [#2](https://github.com/xditya/YouTubeFeeds/issues/2) in [xditya/YouTubeFeeds](https://github.com/xditya/YouTubeFeeds)
+1. 🎉 Merged PR [#60](https://github.com/xditya/GroupManager/pull/60) in [xditya/GroupManager](https://github.com/xditya/GroupManager)
+2. ❌ Closed PR [#11](https://github.com/xditya/ChannelAutoPost/pull/11) in [xditya/ChannelAutoPost](https://github.com/xditya/ChannelAutoPost)
+3. 🗣 Commented on [#103](https://github.com/TeamUltroid/UltroidAddons/issues/103) in [TeamUltroid/UltroidAddons](https://github.com/TeamUltroid/UltroidAddons)
 4. 🗣 Commented on [#2](https://github.com/xditya/YouTubeFeeds/issues/2) in [xditya/YouTubeFeeds](https://github.com/xditya/YouTubeFeeds)
-5. 🗣 Commented on [#59](https://github.com/xditya/GroupManager/issues/59) in [xditya/GroupManager](https://github.com/xditya/GroupManager)
+5. 🗣 Commented on [#2](https://github.com/xditya/YouTubeFeeds/issues/2) in [xditya/YouTubeFeeds](https://github.com/xditya/YouTubeFeeds)
 <!--END_SECTION:activity-->
 
 ---
