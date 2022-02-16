@@ -51,10 +51,10 @@
 ## 💻 Latest Activities
 
 <!--START_SECTION:activity-->
-1. ❌ Closed PR [#61](https://github.com/xditya/GroupManager/pull/61) in [xditya/GroupManager](https://github.com/xditya/GroupManager)
-2. ❌ Closed PR [#270](https://github.com/TeamUltroid/Ultroid/pull/270) in [TeamUltroid/Ultroid](https://github.com/TeamUltroid/Ultroid)
-3. ❌ Closed PR [#8](https://github.com/xditya/ChannelAutoPost/pull/8) in [xditya/ChannelAutoPost](https://github.com/xditya/ChannelAutoPost)
-4. 🗣 Commented on [#6](https://github.com/xditya/BotStatus/issues/6) in [xditya/BotStatus](https://github.com/xditya/BotStatus)
+1. 💪 Opened PR [#3724](https://github.com/LonamiWebs/Telethon/pull/3724) in [LonamiWebs/Telethon](https://github.com/LonamiWebs/Telethon)
+2. ❌ Closed PR [#61](https://github.com/xditya/GroupManager/pull/61) in [xditya/GroupManager](https://github.com/xditya/GroupManager)
+3. ❌ Closed PR [#270](https://github.com/TeamUltroid/Ultroid/pull/270) in [TeamUltroid/Ultroid](https://github.com/TeamUltroid/Ultroid)
+4. ❌ Closed PR [#8](https://github.com/xditya/ChannelAutoPost/pull/8) in [xditya/ChannelAutoPost](https://github.com/xditya/ChannelAutoPost)
 5. 🗣 Commented on [#6](https://github.com/xditya/BotStatus/issues/6) in [xditya/BotStatus](https://github.com/xditya/BotStatus)
 <!--END_SECTION:activity-->
 
