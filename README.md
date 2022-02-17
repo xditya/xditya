@@ -39,11 +39,11 @@
 ## 🎥 Latest YouTube Videos
 
 <!-- YouTube:START -->
+- [Deploy Ultroid to Heroku with SQL as Database | #TheUltroid](https://www.youtube.com/watch?v=NITxg6SqkPQ)
 - [Deploy Ultroid to Heroku [New] | Bypass heroku services violation | #TheUltroid](https://www.youtube.com/watch?v=0wAV7pUzhDQ)
 - [Deploy Ultroid to Railway | Telegram UserBot | #TheUltroid](https://www.youtube.com/watch?v=eGAlSz2aEZk)
 - [Deploy Ultroid to Qovery | Telegram UserBot | #TheUltroid](https://www.youtube.com/watch?v=ryMptDTwVEg)
 - [Deploy Ultroid on a VPS/Local Machine | Telegram UserBot | #TheUltroid](https://www.youtube.com/watch?v=QfdZiQEWmSo)
-- [Deploy Ultroid to Heroku | Telegram UserBot | Ultroid](https://www.youtube.com/watch?v=9wF7k9qA0Q4)
 <!-- YouTube:END -->
 > ➕ [View More...](https://youtube.com/xditya)
 
