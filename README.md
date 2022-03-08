@@ -51,11 +51,11 @@
 ## 💻 Latest Activities
 
 <!--START_SECTION:activity-->
-1. ❗️ Closed issue [#275](https://github.com/TeamUltroid/Ultroid/issues/275) in [TeamUltroid/Ultroid](https://github.com/TeamUltroid/Ultroid)
-2. 🗣 Commented on [#275](https://github.com/TeamUltroid/Ultroid/issues/275) in [TeamUltroid/Ultroid](https://github.com/TeamUltroid/Ultroid)
-3. ❌ Closed PR [#62](https://github.com/xditya/GroupManager/pull/62) in [xditya/GroupManager](https://github.com/xditya/GroupManager)
-4. 💪 Opened PR [#3724](https://github.com/LonamiWebs/Telethon/pull/3724) in [LonamiWebs/Telethon](https://github.com/LonamiWebs/Telethon)
-5. ❌ Closed PR [#61](https://github.com/xditya/GroupManager/pull/61) in [xditya/GroupManager](https://github.com/xditya/GroupManager)
+1. ❌ Closed PR [#279](https://github.com/TeamUltroid/Ultroid/pull/279) in [TeamUltroid/Ultroid](https://github.com/TeamUltroid/Ultroid)
+2. ❗️ Closed issue [#275](https://github.com/TeamUltroid/Ultroid/issues/275) in [TeamUltroid/Ultroid](https://github.com/TeamUltroid/Ultroid)
+3. 🗣 Commented on [#275](https://github.com/TeamUltroid/Ultroid/issues/275) in [TeamUltroid/Ultroid](https://github.com/TeamUltroid/Ultroid)
+4. ❌ Closed PR [#62](https://github.com/xditya/GroupManager/pull/62) in [xditya/GroupManager](https://github.com/xditya/GroupManager)
+5. 💪 Opened PR [#3724](https://github.com/LonamiWebs/Telethon/pull/3724) in [LonamiWebs/Telethon](https://github.com/LonamiWebs/Telethon)
 <!--END_SECTION:activity-->
 
 ---
