@@ -51,11 +51,11 @@
 ## 💻 Latest Activities
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#57](https://github.com/TeamUltroid/pyUltroid/issues/57) in [TeamUltroid/pyUltroid](https://github.com/TeamUltroid/pyUltroid)
-2. ❌ Closed PR [#8](https://github.com/xditya/BotStatus/pull/8) in [xditya/BotStatus](https://github.com/xditya/BotStatus)
-3. 🎉 Merged PR [#293](https://github.com/TeamUltroid/Ultroid/pull/293) in [TeamUltroid/Ultroid](https://github.com/TeamUltroid/Ultroid)
-4. ❌ Closed PR [#7](https://github.com/xditya/BotStatus/pull/7) in [xditya/BotStatus](https://github.com/xditya/BotStatus)
-5. 🗣 Commented on [#286](https://github.com/TeamUltroid/Ultroid/issues/286) in [TeamUltroid/Ultroid](https://github.com/TeamUltroid/Ultroid)
+1. ❌ Closed PR [#296](https://github.com/TeamUltroid/Ultroid/pull/296) in [TeamUltroid/Ultroid](https://github.com/TeamUltroid/Ultroid)
+2. 🗣 Commented on [#57](https://github.com/TeamUltroid/pyUltroid/issues/57) in [TeamUltroid/pyUltroid](https://github.com/TeamUltroid/pyUltroid)
+3. ❌ Closed PR [#8](https://github.com/xditya/BotStatus/pull/8) in [xditya/BotStatus](https://github.com/xditya/BotStatus)
+4. 🎉 Merged PR [#293](https://github.com/TeamUltroid/Ultroid/pull/293) in [TeamUltroid/Ultroid](https://github.com/TeamUltroid/Ultroid)
+5. ❌ Closed PR [#7](https://github.com/xditya/BotStatus/pull/7) in [xditya/BotStatus](https://github.com/xditya/BotStatus)
 <!--END_SECTION:activity-->
 
 ---
