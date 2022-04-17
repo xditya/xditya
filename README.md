@@ -51,11 +51,11 @@
 ## 💻 Latest Activities
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#9](https://github.com/xditya/ChannelAutoPost/issues/9) in [xditya/ChannelAutoPost](https://github.com/xditya/ChannelAutoPost)
-2. ❌ Closed PR [#302](https://github.com/TeamUltroid/Ultroid/pull/302) in [TeamUltroid/Ultroid](https://github.com/TeamUltroid/Ultroid)
-3. 💪 Opened PR [#1](https://github.com/subinps/tglogging/pull/1) in [subinps/tglogging](https://github.com/subinps/tglogging)
-4. ❌ Closed PR [#298](https://github.com/TeamUltroid/Ultroid/pull/298) in [TeamUltroid/Ultroid](https://github.com/TeamUltroid/Ultroid)
-5. 🗣 Commented on [#297](https://github.com/TeamUltroid/Ultroid/issues/297) in [TeamUltroid/Ultroid](https://github.com/TeamUltroid/Ultroid)
+1. 🗣 Commented on [#63](https://github.com/xditya/GroupManager/issues/63) in [xditya/GroupManager](https://github.com/xditya/GroupManager)
+2. 🗣 Commented on [#9](https://github.com/xditya/ChannelAutoPost/issues/9) in [xditya/ChannelAutoPost](https://github.com/xditya/ChannelAutoPost)
+3. ❌ Closed PR [#302](https://github.com/TeamUltroid/Ultroid/pull/302) in [TeamUltroid/Ultroid](https://github.com/TeamUltroid/Ultroid)
+4. 💪 Opened PR [#1](https://github.com/subinps/tglogging/pull/1) in [subinps/tglogging](https://github.com/subinps/tglogging)
+5. ❌ Closed PR [#298](https://github.com/TeamUltroid/Ultroid/pull/298) in [TeamUltroid/Ultroid](https://github.com/TeamUltroid/Ultroid)
 <!--END_SECTION:activity-->
 
 ---
