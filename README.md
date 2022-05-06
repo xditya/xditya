@@ -51,11 +51,11 @@
 ## 💻 Latest Activities
 
 <!--START_SECTION:activity-->
-1. ❗️ Closed issue [#310](https://github.com/TeamUltroid/Ultroid/issues/310) in [TeamUltroid/Ultroid](https://github.com/TeamUltroid/Ultroid)
-2. ❌ Closed PR [#309](https://github.com/TeamUltroid/Ultroid/pull/309) in [TeamUltroid/Ultroid](https://github.com/TeamUltroid/Ultroid)
-3. 🗣 Commented on [#306](https://github.com/TeamUltroid/Ultroid/issues/306) in [TeamUltroid/Ultroid](https://github.com/TeamUltroid/Ultroid)
-4. ❌ Closed PR [#306](https://github.com/TeamUltroid/Ultroid/pull/306) in [TeamUltroid/Ultroid](https://github.com/TeamUltroid/Ultroid)
-5. 🗣 Commented on [#63](https://github.com/xditya/GroupManager/issues/63) in [xditya/GroupManager](https://github.com/xditya/GroupManager)
+1. 🎉 Merged PR [#312](https://github.com/TeamUltroid/Ultroid/pull/312) in [TeamUltroid/Ultroid](https://github.com/TeamUltroid/Ultroid)
+2. ❗️ Closed issue [#310](https://github.com/TeamUltroid/Ultroid/issues/310) in [TeamUltroid/Ultroid](https://github.com/TeamUltroid/Ultroid)
+3. ❌ Closed PR [#309](https://github.com/TeamUltroid/Ultroid/pull/309) in [TeamUltroid/Ultroid](https://github.com/TeamUltroid/Ultroid)
+4. 🗣 Commented on [#306](https://github.com/TeamUltroid/Ultroid/issues/306) in [TeamUltroid/Ultroid](https://github.com/TeamUltroid/Ultroid)
+5. ❌ Closed PR [#306](https://github.com/TeamUltroid/Ultroid/pull/306) in [TeamUltroid/Ultroid](https://github.com/TeamUltroid/Ultroid)
 <!--END_SECTION:activity-->
 
 ---
