@@ -53,11 +53,11 @@
 ## 💻 Latest Activities
 
 <!--START_SECTION:activity-->
-1. ❌ Closed PR [#350](https://github.com/TeamUltroid/Ultroid/pull/350) in [TeamUltroid/Ultroid](https://github.com/TeamUltroid/Ultroid)
-2. 🗣 Commented on [#350](https://github.com/TeamUltroid/Ultroid/issues/350) in [TeamUltroid/Ultroid](https://github.com/TeamUltroid/Ultroid)
-3. 🗣 Commented on [#2](https://github.com/xditya/ChannelActionsBot/issues/2) in [xditya/ChannelActionsBot](https://github.com/xditya/ChannelActionsBot)
-4. 🗣 Commented on [#2](https://github.com/xditya/ChannelActionsBot/issues/2) in [xditya/ChannelActionsBot](https://github.com/xditya/ChannelActionsBot)
-5. ❌ Closed PR [#344](https://github.com/TeamUltroid/Ultroid/pull/344) in [TeamUltroid/Ultroid](https://github.com/TeamUltroid/Ultroid)
+1. ❗️ Closed issue [#3](https://github.com/xditya/ChannelActionsBot/issues/3) in [xditya/ChannelActionsBot](https://github.com/xditya/ChannelActionsBot)
+2. ❗️ Opened issue [#3](https://github.com/xditya/ChannelActionsBot/issues/3) in [xditya/ChannelActionsBot](https://github.com/xditya/ChannelActionsBot)
+3. ❗️ Closed issue [#2](https://github.com/xditya/ChannelActionsBot/issues/2) in [xditya/ChannelActionsBot](https://github.com/xditya/ChannelActionsBot)
+4. ❌ Closed PR [#350](https://github.com/TeamUltroid/Ultroid/pull/350) in [TeamUltroid/Ultroid](https://github.com/TeamUltroid/Ultroid)
+5. 🗣 Commented on [#350](https://github.com/TeamUltroid/Ultroid/issues/350) in [TeamUltroid/Ultroid](https://github.com/TeamUltroid/Ultroid)
 <!--END_SECTION:activity-->
 
 ---
