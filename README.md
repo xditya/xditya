@@ -53,11 +53,11 @@
 ## 💻 Latest Activities
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#8](https://github.com/New-dev0/TgTwitterStreamer/issues/8) in [New-dev0/TgTwitterStreamer](https://github.com/New-dev0/TgTwitterStreamer)
-2. 🗣 Commented on [#71](https://github.com/TeamUltroid/pyUltroid/issues/71) in [TeamUltroid/pyUltroid](https://github.com/TeamUltroid/pyUltroid)
-3. ❌ Closed PR [#71](https://github.com/TeamUltroid/pyUltroid/pull/71) in [TeamUltroid/pyUltroid](https://github.com/TeamUltroid/pyUltroid)
-4. ❗️ Closed issue [#3](https://github.com/xditya/ChannelActionsBot/issues/3) in [xditya/ChannelActionsBot](https://github.com/xditya/ChannelActionsBot)
-5. ❗️ Opened issue [#3](https://github.com/xditya/ChannelActionsBot/issues/3) in [xditya/ChannelActionsBot](https://github.com/xditya/ChannelActionsBot)
+1. 💪 Opened PR [#100](https://github.com/TDesktop-x64/tdesktop/pull/100) in [TDesktop-x64/tdesktop](https://github.com/TDesktop-x64/tdesktop)
+2. 🗣 Commented on [#8](https://github.com/New-dev0/TgTwitterStreamer/issues/8) in [New-dev0/TgTwitterStreamer](https://github.com/New-dev0/TgTwitterStreamer)
+3. 🗣 Commented on [#71](https://github.com/TeamUltroid/pyUltroid/issues/71) in [TeamUltroid/pyUltroid](https://github.com/TeamUltroid/pyUltroid)
+4. ❌ Closed PR [#71](https://github.com/TeamUltroid/pyUltroid/pull/71) in [TeamUltroid/pyUltroid](https://github.com/TeamUltroid/pyUltroid)
+5. ❗️ Closed issue [#3](https://github.com/xditya/ChannelActionsBot/issues/3) in [xditya/ChannelActionsBot](https://github.com/xditya/ChannelActionsBot)
 <!--END_SECTION:activity-->
 
 ---
