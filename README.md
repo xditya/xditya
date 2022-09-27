@@ -56,11 +56,11 @@
 ## 💻 Latest Activities
 
 <!--START_SECTION:activity-->
-1. ❌ Closed PR [#15](https://github.com/xditya/ChannelAutoPost/pull/15) in [xditya/ChannelAutoPost](https://github.com/xditya/ChannelAutoPost)
-2. 💪 Opened PR [#3924](https://github.com/LonamiWebs/Telethon/pull/3924) in [LonamiWebs/Telethon](https://github.com/LonamiWebs/Telethon)
-3. 🎉 Merged PR [#366](https://github.com/TeamUltroid/Ultroid/pull/366) in [TeamUltroid/Ultroid](https://github.com/TeamUltroid/Ultroid)
-4. 🎉 Merged PR [#2](https://github.com/xditya/Bifrost/pull/2) in [xditya/Bifrost](https://github.com/xditya/Bifrost)
-5. ❗️ Closed issue [#363](https://github.com/TeamUltroid/Ultroid/issues/363) in [TeamUltroid/Ultroid](https://github.com/TeamUltroid/Ultroid)
+1. ❗️ Opened issue [#2](https://github.com/xditya/WhatsUB/issues/2) in [xditya/WhatsUB](https://github.com/xditya/WhatsUB)
+2. ❌ Closed PR [#15](https://github.com/xditya/ChannelAutoPost/pull/15) in [xditya/ChannelAutoPost](https://github.com/xditya/ChannelAutoPost)
+3. 💪 Opened PR [#3924](https://github.com/LonamiWebs/Telethon/pull/3924) in [LonamiWebs/Telethon](https://github.com/LonamiWebs/Telethon)
+4. 🎉 Merged PR [#366](https://github.com/TeamUltroid/Ultroid/pull/366) in [TeamUltroid/Ultroid](https://github.com/TeamUltroid/Ultroid)
+5. 🎉 Merged PR [#2](https://github.com/xditya/Bifrost/pull/2) in [xditya/Bifrost](https://github.com/xditya/Bifrost)
 <!--END_SECTION:activity-->
 
 ---
