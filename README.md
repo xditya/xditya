@@ -56,11 +56,11 @@
 ## 💻 Latest Activities
 
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#5](https://github.com/xditya/ChannelActionsBot/issues/5) in [xditya/ChannelActionsBot](https://github.com/xditya/ChannelActionsBot)
-2. ❗️ Opened issue [#54](https://github.com/grammyjs/conversations/issues/54) in [grammyjs/conversations](https://github.com/grammyjs/conversations)
-3. ❗️ Opened issue [#2](https://github.com/xditya/WhatsUB/issues/2) in [xditya/WhatsUB](https://github.com/xditya/WhatsUB)
-4. ❌ Closed PR [#15](https://github.com/xditya/ChannelAutoPost/pull/15) in [xditya/ChannelAutoPost](https://github.com/xditya/ChannelAutoPost)
-5. 💪 Opened PR [#3924](https://github.com/LonamiWebs/Telethon/pull/3924) in [LonamiWebs/Telethon](https://github.com/LonamiWebs/Telethon)
+1. 🗣 Commented on [#5](https://github.com/xditya/ChannelActionsBot/issues/5) in [xditya/ChannelActionsBot](https://github.com/xditya/ChannelActionsBot)
+2. ❗️ Opened issue [#5](https://github.com/xditya/ChannelActionsBot/issues/5) in [xditya/ChannelActionsBot](https://github.com/xditya/ChannelActionsBot)
+3. ❗️ Opened issue [#54](https://github.com/grammyjs/conversations/issues/54) in [grammyjs/conversations](https://github.com/grammyjs/conversations)
+4. ❗️ Opened issue [#2](https://github.com/xditya/WhatsUB/issues/2) in [xditya/WhatsUB](https://github.com/xditya/WhatsUB)
+5. ❌ Closed PR [#15](https://github.com/xditya/ChannelAutoPost/pull/15) in [xditya/ChannelAutoPost](https://github.com/xditya/ChannelAutoPost)
 <!--END_SECTION:activity-->
 
 ---
