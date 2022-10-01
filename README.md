@@ -56,11 +56,11 @@
 ## 💻 Latest Activities
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#10](https://github.com/New-dev0/TgTwitterStreamer/pull/10) in [New-dev0/TgTwitterStreamer](https://github.com/New-dev0/TgTwitterStreamer)
-2. 🗣 Commented on [#9](https://github.com/xditya/ChannelActionsBot/issues/9) in [xditya/ChannelActionsBot](https://github.com/xditya/ChannelActionsBot)
-3. 🎉 Merged PR [#9](https://github.com/xditya/ChannelActionsBot/pull/9) in [xditya/ChannelActionsBot](https://github.com/xditya/ChannelActionsBot)
-4. 🗣 Commented on [#8](https://github.com/xditya/ChannelActionsBot/issues/8) in [xditya/ChannelActionsBot](https://github.com/xditya/ChannelActionsBot)
-5. 🎉 Merged PR [#8](https://github.com/xditya/ChannelActionsBot/pull/8) in [xditya/ChannelActionsBot](https://github.com/xditya/ChannelActionsBot)
+1. 🎉 Merged PR [#1](https://github.com/xditya/C/pull/1) in [xditya/C](https://github.com/xditya/C)
+2. 💪 Opened PR [#1](https://github.com/swatv3nub/swatv3nub/pull/1) in [swatv3nub/swatv3nub](https://github.com/swatv3nub/swatv3nub)
+3. 💪 Opened PR [#10](https://github.com/New-dev0/TgTwitterStreamer/pull/10) in [New-dev0/TgTwitterStreamer](https://github.com/New-dev0/TgTwitterStreamer)
+4. 🗣 Commented on [#9](https://github.com/xditya/ChannelActionsBot/issues/9) in [xditya/ChannelActionsBot](https://github.com/xditya/ChannelActionsBot)
+5. 🎉 Merged PR [#9](https://github.com/xditya/ChannelActionsBot/pull/9) in [xditya/ChannelActionsBot](https://github.com/xditya/ChannelActionsBot)
 <!--END_SECTION:activity-->
 
 ---
