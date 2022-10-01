@@ -56,11 +56,11 @@
 ## 💻 Latest Activities
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#5](https://github.com/xditya/ChannelActionsBot/issues/5) in [xditya/ChannelActionsBot](https://github.com/xditya/ChannelActionsBot)
-2. ❗️ Opened issue [#5](https://github.com/xditya/ChannelActionsBot/issues/5) in [xditya/ChannelActionsBot](https://github.com/xditya/ChannelActionsBot)
-3. ❗️ Opened issue [#54](https://github.com/grammyjs/conversations/issues/54) in [grammyjs/conversations](https://github.com/grammyjs/conversations)
-4. ❗️ Opened issue [#2](https://github.com/xditya/WhatsUB/issues/2) in [xditya/WhatsUB](https://github.com/xditya/WhatsUB)
-5. ❌ Closed PR [#15](https://github.com/xditya/ChannelAutoPost/pull/15) in [xditya/ChannelAutoPost](https://github.com/xditya/ChannelAutoPost)
+1. 💪 Opened PR [#24](https://github.com/amit-56/Hacktoberfest-Projects/pull/24) in [amit-56/Hacktoberfest-Projects](https://github.com/amit-56/Hacktoberfest-Projects)
+2. 💪 Opened PR [#10](https://github.com/Arindam200/Python_Projects/pull/10) in [Arindam200/Python_Projects](https://github.com/Arindam200/Python_Projects)
+3. 🗣 Commented on [#6](https://github.com/xditya/ChannelActionsBot/issues/6) in [xditya/ChannelActionsBot](https://github.com/xditya/ChannelActionsBot)
+4. 🎉 Merged PR [#6](https://github.com/xditya/ChannelActionsBot/pull/6) in [xditya/ChannelActionsBot](https://github.com/xditya/ChannelActionsBot)
+5. 🗣 Commented on [#5](https://github.com/xditya/ChannelActionsBot/issues/5) in [xditya/ChannelActionsBot](https://github.com/xditya/ChannelActionsBot)
 <!--END_SECTION:activity-->
 
 ---
