@@ -56,11 +56,11 @@
 ## 💻 Latest Activities
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#10](https://github.com/xditya/ChannelActionsBot/issues/10) in [xditya/ChannelActionsBot](https://github.com/xditya/ChannelActionsBot)
-2. 🎉 Merged PR [#10](https://github.com/xditya/ChannelActionsBot/pull/10) in [xditya/ChannelActionsBot](https://github.com/xditya/ChannelActionsBot)
-3. 💪 Opened PR [#2](https://github.com/buddhhu/localdb.json/pull/2) in [buddhhu/localdb.json](https://github.com/buddhhu/localdb.json)
-4. 🎉 Merged PR [#1](https://github.com/xditya/TelegraphUploader/pull/1) in [xditya/TelegraphUploader](https://github.com/xditya/TelegraphUploader)
-5. 🎉 Merged PR [#1](https://github.com/xditya/C/pull/1) in [xditya/C](https://github.com/xditya/C)
+1. 🗣 Commented on [#4](https://github.com/xditya/WhatsUB/issues/4) in [xditya/WhatsUB](https://github.com/xditya/WhatsUB)
+2. 🗣 Commented on [#11](https://github.com/xditya/ChannelActionsBot/issues/11) in [xditya/ChannelActionsBot](https://github.com/xditya/ChannelActionsBot)
+3. 🎉 Merged PR [#11](https://github.com/xditya/ChannelActionsBot/pull/11) in [xditya/ChannelActionsBot](https://github.com/xditya/ChannelActionsBot)
+4. 🗣 Commented on [#10](https://github.com/xditya/ChannelActionsBot/issues/10) in [xditya/ChannelActionsBot](https://github.com/xditya/ChannelActionsBot)
+5. 🎉 Merged PR [#10](https://github.com/xditya/ChannelActionsBot/pull/10) in [xditya/ChannelActionsBot](https://github.com/xditya/ChannelActionsBot)
 <!--END_SECTION:activity-->
 
 ---
