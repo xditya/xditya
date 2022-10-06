@@ -56,11 +56,11 @@
 ## 💻 Latest Activities
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#23](https://github.com/xditya/ChannelActionsBot/issues/23) in [xditya/ChannelActionsBot](https://github.com/xditya/ChannelActionsBot)
-2. 🎉 Merged PR [#22](https://github.com/xditya/ChannelActionsBot/pull/22) in [xditya/ChannelActionsBot](https://github.com/xditya/ChannelActionsBot)
-3. 🗣 Commented on [#22](https://github.com/xditya/ChannelActionsBot/issues/22) in [xditya/ChannelActionsBot](https://github.com/xditya/ChannelActionsBot)
-4. 🗣 Commented on [#20](https://github.com/xditya/ChannelActionsBot/issues/20) in [xditya/ChannelActionsBot](https://github.com/xditya/ChannelActionsBot)
-5. 🎉 Merged PR [#20](https://github.com/xditya/ChannelActionsBot/pull/20) in [xditya/ChannelActionsBot](https://github.com/xditya/ChannelActionsBot)
+1. ❗️ Closed issue [#24](https://github.com/xditya/ChannelActionsBot/issues/24) in [xditya/ChannelActionsBot](https://github.com/xditya/ChannelActionsBot)
+2. 🗣 Commented on [#24](https://github.com/xditya/ChannelActionsBot/issues/24) in [xditya/ChannelActionsBot](https://github.com/xditya/ChannelActionsBot)
+3. 🗣 Commented on [#23](https://github.com/xditya/ChannelActionsBot/issues/23) in [xditya/ChannelActionsBot](https://github.com/xditya/ChannelActionsBot)
+4. 🎉 Merged PR [#22](https://github.com/xditya/ChannelActionsBot/pull/22) in [xditya/ChannelActionsBot](https://github.com/xditya/ChannelActionsBot)
+5. 🗣 Commented on [#22](https://github.com/xditya/ChannelActionsBot/issues/22) in [xditya/ChannelActionsBot](https://github.com/xditya/ChannelActionsBot)
 <!--END_SECTION:activity-->
 
 ---
