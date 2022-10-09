@@ -56,11 +56,11 @@
 ## 💻 Latest Activities
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#6](https://github.com/xditya/WhatsUB/issues/6) in [xditya/WhatsUB](https://github.com/xditya/WhatsUB)
-2. 🎉 Merged PR [#6](https://github.com/xditya/WhatsUB/pull/6) in [xditya/WhatsUB](https://github.com/xditya/WhatsUB)
-3. ❗️ Closed issue [#24](https://github.com/xditya/ChannelActionsBot/issues/24) in [xditya/ChannelActionsBot](https://github.com/xditya/ChannelActionsBot)
-4. 🗣 Commented on [#24](https://github.com/xditya/ChannelActionsBot/issues/24) in [xditya/ChannelActionsBot](https://github.com/xditya/ChannelActionsBot)
-5. 🗣 Commented on [#23](https://github.com/xditya/ChannelActionsBot/issues/23) in [xditya/ChannelActionsBot](https://github.com/xditya/ChannelActionsBot)
+1. 🎉 Merged PR [#25](https://github.com/xditya/ChannelActionsBot/pull/25) in [xditya/ChannelActionsBot](https://github.com/xditya/ChannelActionsBot)
+2. 🗣 Commented on [#6](https://github.com/xditya/WhatsUB/issues/6) in [xditya/WhatsUB](https://github.com/xditya/WhatsUB)
+3. 🎉 Merged PR [#6](https://github.com/xditya/WhatsUB/pull/6) in [xditya/WhatsUB](https://github.com/xditya/WhatsUB)
+4. ❗️ Closed issue [#24](https://github.com/xditya/ChannelActionsBot/issues/24) in [xditya/ChannelActionsBot](https://github.com/xditya/ChannelActionsBot)
+5. 🗣 Commented on [#24](https://github.com/xditya/ChannelActionsBot/issues/24) in [xditya/ChannelActionsBot](https://github.com/xditya/ChannelActionsBot)
 <!--END_SECTION:activity-->
 
 ---
