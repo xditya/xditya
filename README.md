@@ -56,11 +56,11 @@
 ## 💻 Latest Activities
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#15](https://github.com/dscmbcet/hacktoberfest-2022/pull/15) in [dscmbcet/hacktoberfest-2022](https://github.com/dscmbcet/hacktoberfest-2022)
-2. 🎉 Merged PR [#8](https://github.com/xditya/WhatsUB/pull/8) in [xditya/WhatsUB](https://github.com/xditya/WhatsUB)
-3. 🎉 Merged PR [#17](https://github.com/xditya/ChannelAutoPost/pull/17) in [xditya/ChannelAutoPost](https://github.com/xditya/ChannelAutoPost)
-4. 🎉 Merged PR [#7](https://github.com/xditya/WhatsUB/pull/7) in [xditya/WhatsUB](https://github.com/xditya/WhatsUB)
-5. ❌ Closed PR [#385](https://github.com/TeamUltroid/Ultroid/pull/385) in [TeamUltroid/Ultroid](https://github.com/TeamUltroid/Ultroid)
+1. 🎉 Merged PR [#30](https://github.com/xditya/ChannelActionsBot/pull/30) in [xditya/ChannelActionsBot](https://github.com/xditya/ChannelActionsBot)
+2. 💪 Opened PR [#15](https://github.com/dscmbcet/hacktoberfest-2022/pull/15) in [dscmbcet/hacktoberfest-2022](https://github.com/dscmbcet/hacktoberfest-2022)
+3. 🎉 Merged PR [#8](https://github.com/xditya/WhatsUB/pull/8) in [xditya/WhatsUB](https://github.com/xditya/WhatsUB)
+4. 🎉 Merged PR [#17](https://github.com/xditya/ChannelAutoPost/pull/17) in [xditya/ChannelAutoPost](https://github.com/xditya/ChannelAutoPost)
+5. 🎉 Merged PR [#7](https://github.com/xditya/WhatsUB/pull/7) in [xditya/WhatsUB](https://github.com/xditya/WhatsUB)
 <!--END_SECTION:activity-->
 
 ---
