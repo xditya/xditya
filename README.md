@@ -57,10 +57,10 @@
 
 <!--START_SECTION:activity-->
 1. ❗️ Closed issue [#12](https://github.com/dscmbcet/hacktoberfest-2022/issues/12) in [dscmbcet/hacktoberfest-2022](https://github.com/dscmbcet/hacktoberfest-2022)
-2. 🎉 Merged PR [#16](https://github.com/dscmbcet/hacktoberfest-2022/pull/16) in [dscmbcet/hacktoberfest-2022](https://github.com/dscmbcet/hacktoberfest-2022)
-3. ❗️ Closed issue [#4](https://github.com/dscmbcet/hacktoberfest-2022/issues/4) in [dscmbcet/hacktoberfest-2022](https://github.com/dscmbcet/hacktoberfest-2022)
-4. 🎉 Merged PR [#17](https://github.com/dscmbcet/hacktoberfest-2022/pull/17) in [dscmbcet/hacktoberfest-2022](https://github.com/dscmbcet/hacktoberfest-2022)
-5. 🎉 Merged PR [#2](https://github.com/dscmbcet/Quotes-App/pull/2) in [dscmbcet/Quotes-App](https://github.com/dscmbcet/Quotes-App)
+2. 🎉 Merged PR [#19](https://github.com/dscmbcet/hacktoberfest-2022/pull/19) in [dscmbcet/hacktoberfest-2022](https://github.com/dscmbcet/hacktoberfest-2022)
+3. ❗️ Closed issue [#12](https://github.com/dscmbcet/hacktoberfest-2022/issues/12) in [dscmbcet/hacktoberfest-2022](https://github.com/dscmbcet/hacktoberfest-2022)
+4. 🎉 Merged PR [#16](https://github.com/dscmbcet/hacktoberfest-2022/pull/16) in [dscmbcet/hacktoberfest-2022](https://github.com/dscmbcet/hacktoberfest-2022)
+5. ❗️ Closed issue [#4](https://github.com/dscmbcet/hacktoberfest-2022/issues/4) in [dscmbcet/hacktoberfest-2022](https://github.com/dscmbcet/hacktoberfest-2022)
 <!--END_SECTION:activity-->
 
 ---
