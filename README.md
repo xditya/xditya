@@ -56,11 +56,11 @@
 ## 💻 Latest Activities
 
 <!--START_SECTION:activity-->
-1. ❗️ Closed issue [#14](https://github.com/dscmbcet/hacktoberfest-2022/issues/14) in [dscmbcet/hacktoberfest-2022](https://github.com/dscmbcet/hacktoberfest-2022)
-2. 🗣 Commented on [#14](https://github.com/dscmbcet/hacktoberfest-2022/issues/14) in [dscmbcet/hacktoberfest-2022](https://github.com/dscmbcet/hacktoberfest-2022)
-3. 🗣 Commented on [#31](https://github.com/xditya/ChannelActionsBot/issues/31) in [xditya/ChannelActionsBot](https://github.com/xditya/ChannelActionsBot)
-4. 🎉 Merged PR [#31](https://github.com/xditya/ChannelActionsBot/pull/31) in [xditya/ChannelActionsBot](https://github.com/xditya/ChannelActionsBot)
-5. 🎉 Merged PR [#30](https://github.com/xditya/ChannelActionsBot/pull/30) in [xditya/ChannelActionsBot](https://github.com/xditya/ChannelActionsBot)
+1. 🗣 Commented on [#32](https://github.com/xditya/ChannelActionsBot/issues/32) in [xditya/ChannelActionsBot](https://github.com/xditya/ChannelActionsBot)
+2. 🎉 Merged PR [#32](https://github.com/xditya/ChannelActionsBot/pull/32) in [xditya/ChannelActionsBot](https://github.com/xditya/ChannelActionsBot)
+3. 🎉 Merged PR [#2](https://github.com/dscmbcet/Facts-App/pull/2) in [dscmbcet/Facts-App](https://github.com/dscmbcet/Facts-App)
+4. 🎉 Merged PR [#3](https://github.com/dscmbcet/Facts-App/pull/3) in [dscmbcet/Facts-App](https://github.com/dscmbcet/Facts-App)
+5. ❗️ Closed issue [#14](https://github.com/dscmbcet/hacktoberfest-2022/issues/14) in [dscmbcet/hacktoberfest-2022](https://github.com/dscmbcet/hacktoberfest-2022)
 <!--END_SECTION:activity-->
 
 ---
