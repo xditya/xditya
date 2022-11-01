@@ -52,6 +52,11 @@
 <!-- YouTube:END -->
 > ➕ [View More...](https://youtube.com/xditya)
 
+## 👨🏻‍💻 WakaTime Stats
+
+<!--START_SECTION:waka-->
+
+<!--END_SECTION:waka-->
 ---
 ## 💻 Latest Activities
 
