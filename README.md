@@ -72,11 +72,11 @@ Other        1 hr 25 mins    ⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀
 ## 💻 Latest Activities
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#3](https://github.com/dscmbcet/Quotes-App/pull/3) in [dscmbcet/Quotes-App](https://github.com/dscmbcet/Quotes-App)
-2. 🎉 Merged PR [#4](https://github.com/dscmbcet/Facts-App/pull/4) in [dscmbcet/Facts-App](https://github.com/dscmbcet/Facts-App)
-3. 🗣 Commented on [#36](https://github.com/xditya/ChannelActionsBot/issues/36) in [xditya/ChannelActionsBot](https://github.com/xditya/ChannelActionsBot)
-4. 🎉 Merged PR [#36](https://github.com/xditya/ChannelActionsBot/pull/36) in [xditya/ChannelActionsBot](https://github.com/xditya/ChannelActionsBot)
-5. 🗣 Commented on [#35](https://github.com/xditya/ChannelActionsBot/issues/35) in [xditya/ChannelActionsBot](https://github.com/xditya/ChannelActionsBot)
+1. ❗️ Closed issue [#5](https://github.com/xditya/ChannelActionsBot/issues/5) in [xditya/ChannelActionsBot](https://github.com/xditya/ChannelActionsBot)
+2. 🎉 Merged PR [#3](https://github.com/dscmbcet/Quotes-App/pull/3) in [dscmbcet/Quotes-App](https://github.com/dscmbcet/Quotes-App)
+3. 🎉 Merged PR [#4](https://github.com/dscmbcet/Facts-App/pull/4) in [dscmbcet/Facts-App](https://github.com/dscmbcet/Facts-App)
+4. 🗣 Commented on [#36](https://github.com/xditya/ChannelActionsBot/issues/36) in [xditya/ChannelActionsBot](https://github.com/xditya/ChannelActionsBot)
+5. 🎉 Merged PR [#36](https://github.com/xditya/ChannelActionsBot/pull/36) in [xditya/ChannelActionsBot](https://github.com/xditya/ChannelActionsBot)
 <!--END_SECTION:activity-->
 
 ---
