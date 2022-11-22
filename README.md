@@ -71,11 +71,11 @@ Other        2 hrs 33 mins   ⣿⣤⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀
 ## 💻 Latest Activities
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#37](https://github.com/xditya/ChannelActionsBot/pull/37) in [xditya/ChannelActionsBot](https://github.com/xditya/ChannelActionsBot)
-2. 💪 Opened PR [#37](https://github.com/xditya/ChannelActionsBot/pull/37) in [xditya/ChannelActionsBot](https://github.com/xditya/ChannelActionsBot)
-3. 🎉 Merged PR [#1](https://github.com/xditya/TelethonSnippets/pull/1) in [xditya/TelethonSnippets](https://github.com/xditya/TelethonSnippets)
-4. 🎉 Merged PR [#9](https://github.com/xditya/WhatsUB/pull/9) in [xditya/WhatsUB](https://github.com/xditya/WhatsUB)
-5. ❗️ Closed issue [#5](https://github.com/xditya/ChannelActionsBot/issues/5) in [xditya/ChannelActionsBot](https://github.com/xditya/ChannelActionsBot)
+1. 🎉 Merged PR [#1](https://github.com/xditya/GitHubInfo/pull/1) in [xditya/GitHubInfo](https://github.com/xditya/GitHubInfo)
+2. 🎉 Merged PR [#37](https://github.com/xditya/ChannelActionsBot/pull/37) in [xditya/ChannelActionsBot](https://github.com/xditya/ChannelActionsBot)
+3. 💪 Opened PR [#37](https://github.com/xditya/ChannelActionsBot/pull/37) in [xditya/ChannelActionsBot](https://github.com/xditya/ChannelActionsBot)
+4. 🎉 Merged PR [#1](https://github.com/xditya/TelethonSnippets/pull/1) in [xditya/TelethonSnippets](https://github.com/xditya/TelethonSnippets)
+5. 🎉 Merged PR [#9](https://github.com/xditya/WhatsUB/pull/9) in [xditya/WhatsUB](https://github.com/xditya/WhatsUB)
 <!--END_SECTION:activity-->
 
 ---
