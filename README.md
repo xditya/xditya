@@ -71,11 +71,11 @@ Other        2 hrs 33 mins   ⣿⣤⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀
 ## 💻 Latest Activities
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#1](https://github.com/xditya/GitHubInfo/pull/1) in [xditya/GitHubInfo](https://github.com/xditya/GitHubInfo)
-2. 🎉 Merged PR [#37](https://github.com/xditya/ChannelActionsBot/pull/37) in [xditya/ChannelActionsBot](https://github.com/xditya/ChannelActionsBot)
-3. 💪 Opened PR [#37](https://github.com/xditya/ChannelActionsBot/pull/37) in [xditya/ChannelActionsBot](https://github.com/xditya/ChannelActionsBot)
-4. 🎉 Merged PR [#1](https://github.com/xditya/TelethonSnippets/pull/1) in [xditya/TelethonSnippets](https://github.com/xditya/TelethonSnippets)
-5. 🎉 Merged PR [#9](https://github.com/xditya/WhatsUB/pull/9) in [xditya/WhatsUB](https://github.com/xditya/WhatsUB)
+1. ❗️ Closed issue [#384](https://github.com/TeamUltroid/Ultroid/issues/384) in [TeamUltroid/Ultroid](https://github.com/TeamUltroid/Ultroid)
+2. 🗣 Commented on [#391](https://github.com/TeamUltroid/Ultroid/issues/391) in [TeamUltroid/Ultroid](https://github.com/TeamUltroid/Ultroid)
+3. 🎉 Merged PR [#1](https://github.com/xditya/GitHubInfo/pull/1) in [xditya/GitHubInfo](https://github.com/xditya/GitHubInfo)
+4. 🎉 Merged PR [#37](https://github.com/xditya/ChannelActionsBot/pull/37) in [xditya/ChannelActionsBot](https://github.com/xditya/ChannelActionsBot)
+5. 💪 Opened PR [#37](https://github.com/xditya/ChannelActionsBot/pull/37) in [xditya/ChannelActionsBot](https://github.com/xditya/ChannelActionsBot)
 <!--END_SECTION:activity-->
 
 ---
