@@ -71,11 +71,11 @@ Other        2 hrs 34 mins   ⣿⣄⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀
 ## 💻 Latest Activities
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#392](https://github.com/TeamUltroid/Ultroid/issues/392) in [TeamUltroid/Ultroid](https://github.com/TeamUltroid/Ultroid)
-2. ❗️ Closed issue [#384](https://github.com/TeamUltroid/Ultroid/issues/384) in [TeamUltroid/Ultroid](https://github.com/TeamUltroid/Ultroid)
-3. 🗣 Commented on [#391](https://github.com/TeamUltroid/Ultroid/issues/391) in [TeamUltroid/Ultroid](https://github.com/TeamUltroid/Ultroid)
-4. 🎉 Merged PR [#1](https://github.com/xditya/GitHubInfo/pull/1) in [xditya/GitHubInfo](https://github.com/xditya/GitHubInfo)
-5. 🎉 Merged PR [#37](https://github.com/xditya/ChannelActionsBot/pull/37) in [xditya/ChannelActionsBot](https://github.com/xditya/ChannelActionsBot)
+1. ❗️ Closed issue [#390](https://github.com/TeamUltroid/Ultroid/issues/390) in [TeamUltroid/Ultroid](https://github.com/TeamUltroid/Ultroid)
+2. ❗️ Closed issue [#392](https://github.com/TeamUltroid/Ultroid/issues/392) in [TeamUltroid/Ultroid](https://github.com/TeamUltroid/Ultroid)
+3. 🗣 Commented on [#392](https://github.com/TeamUltroid/Ultroid/issues/392) in [TeamUltroid/Ultroid](https://github.com/TeamUltroid/Ultroid)
+4. 🗣 Commented on [#392](https://github.com/TeamUltroid/Ultroid/issues/392) in [TeamUltroid/Ultroid](https://github.com/TeamUltroid/Ultroid)
+5. ❗️ Closed issue [#384](https://github.com/TeamUltroid/Ultroid/issues/384) in [TeamUltroid/Ultroid](https://github.com/TeamUltroid/Ultroid)
 <!--END_SECTION:activity-->
 
 ---
