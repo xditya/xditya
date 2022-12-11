@@ -71,11 +71,11 @@ Other        2 hrs 37 mins   ⣿⣄⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀
 ## 💻 Latest Activities
 
 <!--START_SECTION:activity-->
-1. ❗️ Closed issue [#390](https://github.com/TeamUltroid/Ultroid/issues/390) in [TeamUltroid/Ultroid](https://github.com/TeamUltroid/Ultroid)
-2. ❗️ Closed issue [#392](https://github.com/TeamUltroid/Ultroid/issues/392) in [TeamUltroid/Ultroid](https://github.com/TeamUltroid/Ultroid)
-3. 🗣 Commented on [#392](https://github.com/TeamUltroid/Ultroid/issues/392) in [TeamUltroid/Ultroid](https://github.com/TeamUltroid/Ultroid)
+1. 💪 Opened PR [#36](https://github.com/grammyjs/awesome-grammY/pull/36) in [grammyjs/awesome-grammY](https://github.com/grammyjs/awesome-grammY)
+2. ❗️ Closed issue [#390](https://github.com/TeamUltroid/Ultroid/issues/390) in [TeamUltroid/Ultroid](https://github.com/TeamUltroid/Ultroid)
+3. ❗️ Closed issue [#392](https://github.com/TeamUltroid/Ultroid/issues/392) in [TeamUltroid/Ultroid](https://github.com/TeamUltroid/Ultroid)
 4. 🗣 Commented on [#392](https://github.com/TeamUltroid/Ultroid/issues/392) in [TeamUltroid/Ultroid](https://github.com/TeamUltroid/Ultroid)
-5. ❗️ Closed issue [#384](https://github.com/TeamUltroid/Ultroid/issues/384) in [TeamUltroid/Ultroid](https://github.com/TeamUltroid/Ultroid)
+5. 🗣 Commented on [#392](https://github.com/TeamUltroid/Ultroid/issues/392) in [TeamUltroid/Ultroid](https://github.com/TeamUltroid/Ultroid)
 <!--END_SECTION:activity-->
 
 ---
