@@ -80,6 +80,11 @@ Other        2 hrs 41 mins   ⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀
 
 ---
 
+## LOC
+[![Lines of Code](https://api.githubtrends.io/user/svg/xditya/langs?time_range=one_year&include_private=True&loc_metric=changed&theme=dark)](https://xditya.me)
+
+---
+
 ## 🎵 Now playing
 
 [![Spotify](https://spotify-readme-3s61yj059-xditya.vercel.app/api/spotify)](https://open.spotify.com/user/on84l0syf9y9m2m84unz4h8uq)
