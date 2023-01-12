@@ -44,11 +44,11 @@
 ## 🎥 Latest YouTube Videos
 
 <!-- YouTube:START -->
+- [MorphVOX NEW CRACK 2022  HOW TO DOWNLOAD AND INSTALL MorphVOX PRO FULL + FREE 2022](https://www.youtube.com/watch?v=n1S81Vkrq9k)
+- [ADOBE DIMENSION CRACK 2022 / ADOBE DIMENSION FREE / ADOBE DIMENSION TUTORIAL](https://www.youtube.com/watch?v=Apy3YY-qJ_s)
 - [Deploy Ultroid to RDP | Windows Server | Windows PC | Telegram UserBot #TheUltroid](https://www.youtube.com/watch?v=Lb6UKuDcsJE)
 - [Deploy Telegram Channel Join Request Approver Bot | ChannelActionsBot | DenoDeploy](https://www.youtube.com/watch?v=hjxfJtk5ZWs)
 - [Deploy Ultroid to Okteto | #TheUltroid](https://www.youtube.com/watch?v=uPCe0I8yJpg)
-- [Deploy Ultroid to Heroku with SQL as Database | #TheUltroid](https://www.youtube.com/watch?v=NITxg6SqkPQ)
-- [Deploy Ultroid to Heroku [New] | Bypass heroku services violation | #TheUltroid](https://www.youtube.com/watch?v=0wAV7pUzhDQ)
 <!-- YouTube:END -->
 > ➕ [View More...](https://youtube.com/xditya)
 
