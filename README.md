@@ -55,11 +55,11 @@ Other            3 hrs 44 mins   ⣷⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀�
 ## 💻 Latest Activities
 
 <!--START_SECTION:activity-->
-1. ❌ Closed PR [#400](https://github.com/TeamUltroid/Ultroid/pull/400) in [TeamUltroid/Ultroid](https://github.com/TeamUltroid/Ultroid)
-2. ❗️ Closed issue [#2](https://github.com/xditya/WhatsUB/issues/2) in [xditya/WhatsUB](https://github.com/xditya/WhatsUB)
-3. 🗣 Commented on [#36](https://github.com/grammyjs/awesome-grammY/issues/36) in [grammyjs/awesome-grammY](https://github.com/grammyjs/awesome-grammY)
-4. 🗣 Commented on [#395](https://github.com/TeamUltroid/Ultroid/issues/395) in [TeamUltroid/Ultroid](https://github.com/TeamUltroid/Ultroid)
-5. 💪 Opened PR [#36](https://github.com/grammyjs/awesome-grammY/pull/36) in [grammyjs/awesome-grammY](https://github.com/grammyjs/awesome-grammY)
+1. ❗️ Closed issue [#1](https://github.com/xditya/YouTubeFeeds/issues/1) in [xditya/YouTubeFeeds](https://github.com/xditya/YouTubeFeeds)
+2. 🗣 Commented on [#1](https://github.com/xditya/YouTubeFeeds/issues/1) in [xditya/YouTubeFeeds](https://github.com/xditya/YouTubeFeeds)
+3. ❌ Closed PR [#400](https://github.com/TeamUltroid/Ultroid/pull/400) in [TeamUltroid/Ultroid](https://github.com/TeamUltroid/Ultroid)
+4. ❗️ Closed issue [#2](https://github.com/xditya/WhatsUB/issues/2) in [xditya/WhatsUB](https://github.com/xditya/WhatsUB)
+5. 🗣 Commented on [#36](https://github.com/grammyjs/awesome-grammY/issues/36) in [grammyjs/awesome-grammY](https://github.com/grammyjs/awesome-grammY)
 <!--END_SECTION:activity-->
 
 ---
