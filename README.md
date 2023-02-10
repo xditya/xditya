@@ -55,11 +55,11 @@ Other            4 hrs 10 mins   ⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀�
 ## 💻 Latest Activities
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#1](https://github.com/xditya/WPTagAll/issues/1) in [xditya/WPTagAll](https://github.com/xditya/WPTagAll)
-2. ❗️ Closed issue [#1](https://github.com/xditya/WPTagAll/issues/1) in [xditya/WPTagAll](https://github.com/xditya/WPTagAll)
-3. ❗️ Closed issue [#1](https://github.com/xditya/YouTubeFeeds/issues/1) in [xditya/YouTubeFeeds](https://github.com/xditya/YouTubeFeeds)
-4. 🗣 Commented on [#1](https://github.com/xditya/YouTubeFeeds/issues/1) in [xditya/YouTubeFeeds](https://github.com/xditya/YouTubeFeeds)
-5. ❌ Closed PR [#400](https://github.com/TeamUltroid/Ultroid/pull/400) in [TeamUltroid/Ultroid](https://github.com/TeamUltroid/Ultroid)
+1. 🗣 Commented on [#404](https://github.com/TeamUltroid/Ultroid/issues/404) in [TeamUltroid/Ultroid](https://github.com/TeamUltroid/Ultroid)
+2. 🗣 Commented on [#1](https://github.com/xditya/WPTagAll/issues/1) in [xditya/WPTagAll](https://github.com/xditya/WPTagAll)
+3. ❗️ Closed issue [#1](https://github.com/xditya/WPTagAll/issues/1) in [xditya/WPTagAll](https://github.com/xditya/WPTagAll)
+4. ❗️ Closed issue [#1](https://github.com/xditya/YouTubeFeeds/issues/1) in [xditya/YouTubeFeeds](https://github.com/xditya/YouTubeFeeds)
+5. 🗣 Commented on [#1](https://github.com/xditya/YouTubeFeeds/issues/1) in [xditya/YouTubeFeeds](https://github.com/xditya/YouTubeFeeds)
 <!--END_SECTION:activity-->
 
 ---
