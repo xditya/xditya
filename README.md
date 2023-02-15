@@ -56,11 +56,11 @@ Other            4 hrs 12 mins   ⣷⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀�
 ## 💻 Latest Activities
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#404](https://github.com/TeamUltroid/Ultroid/issues/404) in [TeamUltroid/Ultroid](https://github.com/TeamUltroid/Ultroid)
-2. 🗣 Commented on [#1](https://github.com/xditya/WPTagAll/issues/1) in [xditya/WPTagAll](https://github.com/xditya/WPTagAll)
-3. ❗️ Closed issue [#1](https://github.com/xditya/WPTagAll/issues/1) in [xditya/WPTagAll](https://github.com/xditya/WPTagAll)
-4. ❗️ Closed issue [#1](https://github.com/xditya/YouTubeFeeds/issues/1) in [xditya/YouTubeFeeds](https://github.com/xditya/YouTubeFeeds)
-5. 🗣 Commented on [#1](https://github.com/xditya/YouTubeFeeds/issues/1) in [xditya/YouTubeFeeds](https://github.com/xditya/YouTubeFeeds)
+1. ❗️ Closed issue [#13](https://github.com/xditya/ChannelAutoPost/issues/13) in [xditya/ChannelAutoPost](https://github.com/xditya/ChannelAutoPost)
+2. 🗣 Commented on [#19](https://github.com/xditya/ChannelAutoPost/issues/19) in [xditya/ChannelAutoPost](https://github.com/xditya/ChannelAutoPost)
+3. 🗣 Commented on [#404](https://github.com/TeamUltroid/Ultroid/issues/404) in [TeamUltroid/Ultroid](https://github.com/TeamUltroid/Ultroid)
+4. 🗣 Commented on [#1](https://github.com/xditya/WPTagAll/issues/1) in [xditya/WPTagAll](https://github.com/xditya/WPTagAll)
+5. ❗️ Closed issue [#1](https://github.com/xditya/WPTagAll/issues/1) in [xditya/WPTagAll](https://github.com/xditya/WPTagAll)
 <!--END_SECTION:activity-->
 
 ---
