@@ -56,10 +56,10 @@ Other            4 hrs 12 mins   ⣷⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀�
 ## 💻 Latest Activities
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#19](https://github.com/xditya/ChannelAutoPost/issues/19) in [xditya/ChannelAutoPost](https://github.com/xditya/ChannelAutoPost)
-2. 🗣 Commented on [#19](https://github.com/xditya/ChannelAutoPost/issues/19) in [xditya/ChannelAutoPost](https://github.com/xditya/ChannelAutoPost)
-3. 🗣 Commented on [#19](https://github.com/xditya/ChannelAutoPost/issues/19) in [xditya/ChannelAutoPost](https://github.com/xditya/ChannelAutoPost)
-4. ❗️ Closed issue [#13](https://github.com/xditya/ChannelAutoPost/issues/13) in [xditya/ChannelAutoPost](https://github.com/xditya/ChannelAutoPost)
+1. 🗣 Commented on [#2](https://github.com/xditya/TelegraphUploader/issues/2) in [xditya/TelegraphUploader](https://github.com/xditya/TelegraphUploader)
+2. ❗️ Closed issue [#2](https://github.com/xditya/TelegraphUploader/issues/2) in [xditya/TelegraphUploader](https://github.com/xditya/TelegraphUploader)
+3. 🗣 Commented on [#20](https://github.com/xditya/ChannelAutoPost/issues/20) in [xditya/ChannelAutoPost](https://github.com/xditya/ChannelAutoPost)
+4. ❗️ Closed issue [#19](https://github.com/xditya/ChannelAutoPost/issues/19) in [xditya/ChannelAutoPost](https://github.com/xditya/ChannelAutoPost)
 5. 🗣 Commented on [#19](https://github.com/xditya/ChannelAutoPost/issues/19) in [xditya/ChannelAutoPost](https://github.com/xditya/ChannelAutoPost)
 <!--END_SECTION:activity-->
 
