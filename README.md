@@ -56,11 +56,11 @@ Other            4 hrs 13 mins   ⣷⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀�
 ## 💻 Latest Activities
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#2](https://github.com/xditya/TelegraphUploader/issues/2) in [xditya/TelegraphUploader](https://github.com/xditya/TelegraphUploader)
-2. ❗️ Closed issue [#2](https://github.com/xditya/TelegraphUploader/issues/2) in [xditya/TelegraphUploader](https://github.com/xditya/TelegraphUploader)
-3. 🗣 Commented on [#20](https://github.com/xditya/ChannelAutoPost/issues/20) in [xditya/ChannelAutoPost](https://github.com/xditya/ChannelAutoPost)
-4. ❗️ Closed issue [#19](https://github.com/xditya/ChannelAutoPost/issues/19) in [xditya/ChannelAutoPost](https://github.com/xditya/ChannelAutoPost)
-5. 🗣 Commented on [#19](https://github.com/xditya/ChannelAutoPost/issues/19) in [xditya/ChannelAutoPost](https://github.com/xditya/ChannelAutoPost)
+1. ❌ Closed PR [#382](https://github.com/TeamUltroid/Ultroid/pull/382) in [TeamUltroid/Ultroid](https://github.com/TeamUltroid/Ultroid)
+2. 🗣 Commented on [#2](https://github.com/xditya/TelegraphUploader/issues/2) in [xditya/TelegraphUploader](https://github.com/xditya/TelegraphUploader)
+3. ❗️ Closed issue [#2](https://github.com/xditya/TelegraphUploader/issues/2) in [xditya/TelegraphUploader](https://github.com/xditya/TelegraphUploader)
+4. 🗣 Commented on [#20](https://github.com/xditya/ChannelAutoPost/issues/20) in [xditya/ChannelAutoPost](https://github.com/xditya/ChannelAutoPost)
+5. ❗️ Closed issue [#19](https://github.com/xditya/ChannelAutoPost/issues/19) in [xditya/ChannelAutoPost](https://github.com/xditya/ChannelAutoPost)
 <!--END_SECTION:activity-->
 
 ---
