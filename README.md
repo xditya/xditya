@@ -56,11 +56,11 @@ Other            5 hrs           ⣷⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀�
 ## 💻 Latest Activities
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#409](https://github.com/TeamUltroid/Ultroid/issues/409) in [TeamUltroid/Ultroid](https://github.com/TeamUltroid/Ultroid)
-2. ❌ Closed PR [#382](https://github.com/TeamUltroid/Ultroid/pull/382) in [TeamUltroid/Ultroid](https://github.com/TeamUltroid/Ultroid)
-3. 🗣 Commented on [#2](https://github.com/xditya/TelegraphUploader/issues/2) in [xditya/TelegraphUploader](https://github.com/xditya/TelegraphUploader)
-4. ❗️ Closed issue [#2](https://github.com/xditya/TelegraphUploader/issues/2) in [xditya/TelegraphUploader](https://github.com/xditya/TelegraphUploader)
-5. 🗣 Commented on [#20](https://github.com/xditya/ChannelAutoPost/issues/20) in [xditya/ChannelAutoPost](https://github.com/xditya/ChannelAutoPost)
+1. ❌ Closed PR [#9](https://github.com/xditya/BotStatus/pull/9) in [xditya/BotStatus](https://github.com/xditya/BotStatus)
+2. 🗣 Commented on [#409](https://github.com/TeamUltroid/Ultroid/issues/409) in [TeamUltroid/Ultroid](https://github.com/TeamUltroid/Ultroid)
+3. ❌ Closed PR [#382](https://github.com/TeamUltroid/Ultroid/pull/382) in [TeamUltroid/Ultroid](https://github.com/TeamUltroid/Ultroid)
+4. 🗣 Commented on [#2](https://github.com/xditya/TelegraphUploader/issues/2) in [xditya/TelegraphUploader](https://github.com/xditya/TelegraphUploader)
+5. ❗️ Closed issue [#2](https://github.com/xditya/TelegraphUploader/issues/2) in [xditya/TelegraphUploader](https://github.com/xditya/TelegraphUploader)
 <!--END_SECTION:activity-->
 
 ---
