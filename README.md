@@ -56,11 +56,11 @@ Other            5 hrs           ⣷⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀�
 ## 💻 Latest Activities
 
 <!--START_SECTION:activity-->
-1. ❌ Closed PR [#9](https://github.com/xditya/BotStatus/pull/9) in [xditya/BotStatus](https://github.com/xditya/BotStatus)
-2. 🗣 Commented on [#409](https://github.com/TeamUltroid/Ultroid/issues/409) in [TeamUltroid/Ultroid](https://github.com/TeamUltroid/Ultroid)
-3. ❌ Closed PR [#382](https://github.com/TeamUltroid/Ultroid/pull/382) in [TeamUltroid/Ultroid](https://github.com/TeamUltroid/Ultroid)
-4. 🗣 Commented on [#2](https://github.com/xditya/TelegraphUploader/issues/2) in [xditya/TelegraphUploader](https://github.com/xditya/TelegraphUploader)
-5. ❗️ Closed issue [#2](https://github.com/xditya/TelegraphUploader/issues/2) in [xditya/TelegraphUploader](https://github.com/xditya/TelegraphUploader)
+1. 💪 Opened PR [#1](https://github.com/piklujazz/Deezer-Bot/pull/1) in [piklujazz/Deezer-Bot](https://github.com/piklujazz/Deezer-Bot)
+2. ❌ Closed PR [#9](https://github.com/xditya/BotStatus/pull/9) in [xditya/BotStatus](https://github.com/xditya/BotStatus)
+3. 🗣 Commented on [#409](https://github.com/TeamUltroid/Ultroid/issues/409) in [TeamUltroid/Ultroid](https://github.com/TeamUltroid/Ultroid)
+4. ❌ Closed PR [#382](https://github.com/TeamUltroid/Ultroid/pull/382) in [TeamUltroid/Ultroid](https://github.com/TeamUltroid/Ultroid)
+5. 🗣 Commented on [#2](https://github.com/xditya/TelegraphUploader/issues/2) in [xditya/TelegraphUploader](https://github.com/xditya/TelegraphUploader)
 <!--END_SECTION:activity-->
 
 ---
