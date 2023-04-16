@@ -56,11 +56,11 @@ Other            5 hrs 7 mins    ⣶⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀�
 ## 💻 Latest Activities
 
 <!--START_SECTION:activity-->
-1. ❗️ Closed issue [#41](https://github.com/xditya/ChannelActionsBot/issues/41) in [xditya/ChannelActionsBot](https://github.com/xditya/ChannelActionsBot)
-2. 🗣 Commented on [#41](https://github.com/xditya/ChannelActionsBot/issues/41) in [xditya/ChannelActionsBot](https://github.com/xditya/ChannelActionsBot)
-3. ❗️ Closed issue [#40](https://github.com/xditya/ChannelActionsBot/issues/40) in [xditya/ChannelActionsBot](https://github.com/xditya/ChannelActionsBot)
-4. 💪 Opened PR [#1](https://github.com/piklujazz/Deezer-Bot/pull/1) in [piklujazz/Deezer-Bot](https://github.com/piklujazz/Deezer-Bot)
-5. ❌ Closed PR [#9](https://github.com/xditya/BotStatus/pull/9) in [xditya/BotStatus](https://github.com/xditya/BotStatus)
+1. 🗣 Commented on [#21](https://github.com/xditya/ChannelAutoPost/issues/21) in [xditya/ChannelAutoPost](https://github.com/xditya/ChannelAutoPost)
+2. ❗️ Closed issue [#41](https://github.com/xditya/ChannelActionsBot/issues/41) in [xditya/ChannelActionsBot](https://github.com/xditya/ChannelActionsBot)
+3. 🗣 Commented on [#41](https://github.com/xditya/ChannelActionsBot/issues/41) in [xditya/ChannelActionsBot](https://github.com/xditya/ChannelActionsBot)
+4. ❗️ Closed issue [#40](https://github.com/xditya/ChannelActionsBot/issues/40) in [xditya/ChannelActionsBot](https://github.com/xditya/ChannelActionsBot)
+5. 💪 Opened PR [#1](https://github.com/piklujazz/Deezer-Bot/pull/1) in [piklujazz/Deezer-Bot](https://github.com/piklujazz/Deezer-Bot)
 <!--END_SECTION:activity-->
 
 ---
