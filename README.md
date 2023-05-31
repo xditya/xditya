@@ -59,7 +59,7 @@ Other            5 hrs 14 mins   ⣶⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀�
 1. 🗣 Commented on [#21](https://github.com/xditya/ChannelAutoPost/issues/21) in [xditya/ChannelAutoPost](https://github.com/xditya/ChannelAutoPost)
 2. 🗣 Commented on [#21](https://github.com/xditya/ChannelAutoPost/issues/21) in [xditya/ChannelAutoPost](https://github.com/xditya/ChannelAutoPost)
 3. 🗣 Commented on [#21](https://github.com/xditya/ChannelAutoPost/issues/21) in [xditya/ChannelAutoPost](https://github.com/xditya/ChannelAutoPost)
-4. ❗️ Closed issue [#41](https://github.com/xditya/ChannelActionsBot/issues/41) in [xditya/ChannelActionsBot](https://github.com/xditya/ChannelActionsBot)
+4. 🔒 Closed issue [#41](https://github.com/xditya/ChannelActionsBot/issues/41) in [xditya/ChannelActionsBot](https://github.com/xditya/ChannelActionsBot)
 5. 🗣 Commented on [#41](https://github.com/xditya/ChannelActionsBot/issues/41) in [xditya/ChannelActionsBot](https://github.com/xditya/ChannelActionsBot)
 <!--END_SECTION:activity-->
 
