@@ -56,9 +56,9 @@ Markdown         5 hrs 30 mins   ⣶⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀�
 ## 💻 Latest Activities
 
 <!--START_SECTION:activity-->
-1. 🔒 Closed issue [#3](https://github.com/xditya/TelegraphUploader/issues/3) in [xditya/TelegraphUploader](https://github.com/xditya/TelegraphUploader)
-2. 💪 Opened PR [#1103](https://github.com/github/india/pull/1103) in [github/india](https://github.com/github/india)
-3. 🗣 Commented on [#21](https://github.com/xditya/ChannelAutoPost/issues/21) in [xditya/ChannelAutoPost](https://github.com/xditya/ChannelAutoPost)
+1. 🗣 Commented on [#421](https://github.com/denoland/deploy_feedback/issues/421) in [denoland/deploy_feedback](https://github.com/denoland/deploy_feedback)
+2. 🔒 Closed issue [#3](https://github.com/xditya/TelegraphUploader/issues/3) in [xditya/TelegraphUploader](https://github.com/xditya/TelegraphUploader)
+3. 💪 Opened PR [#1103](https://github.com/github/india/pull/1103) in [github/india](https://github.com/github/india)
 4. 🗣 Commented on [#21](https://github.com/xditya/ChannelAutoPost/issues/21) in [xditya/ChannelAutoPost](https://github.com/xditya/ChannelAutoPost)
 5. 🗣 Commented on [#21](https://github.com/xditya/ChannelAutoPost/issues/21) in [xditya/ChannelAutoPost](https://github.com/xditya/ChannelAutoPost)
 <!--END_SECTION:activity-->
