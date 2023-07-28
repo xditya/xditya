@@ -19,7 +19,7 @@
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                 <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
                             </svg>
-                            41683 Commits
+                            41684 Commits
                         </div>
                         <div class="field">
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
@@ -77,7 +77,7 @@
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                 <path fill-rule="evenodd" d="M8 .25a.75.75 0 01.673.418l1.882 3.815 4.21.612a.75.75 0 01.416 1.279l-3.046 2.97.719 4.192a.75.75 0 01-1.088.791L8 12.347l-3.766 1.98a.75.75 0 01-1.088-.79l.72-4.194L.818 6.374a.75.75 0 01.416-1.28l4.21-.611L7.327.668A.75.75 0 018 .25zm0 2.445L6.615 5.5a.75.75 0 01-.564.41l-3.097.45 2.24 2.184a.75.75 0 01.216.664l-.528 3.084 2.769-1.456a.75.75 0 01.698 0l2.77 1.456-.53-3.084a.75.75 0 01.216-.664l2.24-2.183-3.096-.45a.75.75 0 01-.564-.41L8 2.694v.001z"/>
                             </svg>
-                            Starred 71 repositories
+                            Starred 72 repositories
                         </div>
                         <div class="field">
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
@@ -169,14 +169,14 @@
                         <rect x="0" y="0" width="460" height="8" fill="white" rx="5"/>
                     </mask>
                     <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
-                    <rect mask="url(#languages-bar)" x="0" y="0" width="389.3675886375676" height="8" fill="#3572A5"/>
-                    <rect mask="url(#languages-bar)" x="389.3675886375676" y="0" width="35.98959320892529" height="8" fill="#3178c6"/>
-                    <rect mask="url(#languages-bar)" x="425.3571818464929" y="0" width="16.890522994112857" height="8" fill="#ffcc33"/>
-                    <rect mask="url(#languages-bar)" x="442.24770484060576" y="0" width="5.223758648863884" height="8" fill="#A97BFF"/>
-                    <rect mask="url(#languages-bar)" x="447.47146348946967" y="0" width="4.468898564814336" height="8" fill="#f1e05a"/>
-                    <rect mask="url(#languages-bar)" x="451.94036205428404" y="0" width="3.7565918678558172" height="8" fill="#e34c26"/>
-                    <rect mask="url(#languages-bar)" x="455.6969539221398" y="0" width="2.9167571630002724" height="8" fill="#b07219"/>
-                    <rect mask="url(#languages-bar)" x="458.6137110851401" y="0" width="1.3862889148599002" height="8" fill="#563d7c"/>
+                    <rect mask="url(#languages-bar)" x="0" y="0" width="389.3690293388875" height="8" fill="#3572A5"/>
+                    <rect mask="url(#languages-bar)" x="389.3690293388875" y="0" width="35.98885912306532" height="8" fill="#3178c6"/>
+                    <rect mask="url(#languages-bar)" x="425.3578884619529" y="0" width="16.8901784752397" height="8" fill="#ffcc33"/>
+                    <rect mask="url(#languages-bar)" x="442.24806693719256" y="0" width="5.223652098969368" height="8" fill="#A97BFF"/>
+                    <rect mask="url(#languages-bar)" x="447.4717190361619" y="0" width="4.468807411929472" height="8" fill="#f1e05a"/>
+                    <rect mask="url(#languages-bar)" x="451.94052644809136" y="0" width="3.756515244011922" height="8" fill="#e34c26"/>
+                    <rect mask="url(#languages-bar)" x="455.6970416921033" y="0" width="2.916697669407836" height="8" fill="#b07219"/>
+                    <rect mask="url(#languages-bar)" x="458.61373936151114" y="0" width="1.3862606384888856" height="8" fill="#563d7c"/>
                 </svg>
                 <div class="field center horizontal-wrap fill-width">
                     <div class="field center no-wrap language">
