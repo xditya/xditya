@@ -56,11 +56,11 @@ JSON             6 hrs 2 mins    ⣦⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀�
 ## 💻 Latest Activities
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#422](https://github.com/TeamUltroid/Ultroid/pull/422#issuecomment-1637206900) in [TeamUltroid/Ultroid](https://github.com/TeamUltroid/Ultroid)
-2. 🎉 Merged PR [#1](https://github.com/xditya/MyComposeApp/pull/1) in [xditya/MyComposeApp](https://github.com/xditya/MyComposeApp)
-3. 🔒 Closed issue [#20](https://github.com/xditya/ChannelAutoPost/issues/20) in [xditya/ChannelAutoPost](https://github.com/xditya/ChannelAutoPost)
-4. 🔒 Closed issue [#21](https://github.com/xditya/ChannelAutoPost/issues/21) in [xditya/ChannelAutoPost](https://github.com/xditya/ChannelAutoPost)
-5. 🗣 Commented on [#421](https://github.com/denoland/deploy_feedback/issues/421#issuecomment-1617980472) in [denoland/deploy_feedback](https://github.com/denoland/deploy_feedback)
+1. ❌ Closed PR [#422](https://github.com/TeamUltroid/Ultroid/pull/422) in [TeamUltroid/Ultroid](https://github.com/TeamUltroid/Ultroid)
+2. 🔒 Closed issue [#374](https://github.com/TeamUltroid/Ultroid/issues/374) in [TeamUltroid/Ultroid](https://github.com/TeamUltroid/Ultroid)
+3. 🔒 Closed issue [#394](https://github.com/TeamUltroid/Ultroid/issues/394) in [TeamUltroid/Ultroid](https://github.com/TeamUltroid/Ultroid)
+4. 🔒 Closed issue [#401](https://github.com/TeamUltroid/Ultroid/issues/401) in [TeamUltroid/Ultroid](https://github.com/TeamUltroid/Ultroid)
+5. 🗣 Commented on [#422](https://github.com/TeamUltroid/Ultroid/pull/422#issuecomment-1637206900) in [TeamUltroid/Ultroid](https://github.com/TeamUltroid/Ultroid)
 <!--END_SECTION:activity-->
 
 ---
