@@ -56,11 +56,11 @@ JSON             6 hrs 8 mins    ⣦⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀�
 ## 💻 Latest Activities
 
 <!--START_SECTION:activity-->
-1. ❌ Closed PR [#422](https://github.com/TeamUltroid/Ultroid/pull/422) in [TeamUltroid/Ultroid](https://github.com/TeamUltroid/Ultroid)
-2. 🔒 Closed issue [#374](https://github.com/TeamUltroid/Ultroid/issues/374) in [TeamUltroid/Ultroid](https://github.com/TeamUltroid/Ultroid)
-3. 🔒 Closed issue [#394](https://github.com/TeamUltroid/Ultroid/issues/394) in [TeamUltroid/Ultroid](https://github.com/TeamUltroid/Ultroid)
-4. 🔒 Closed issue [#401](https://github.com/TeamUltroid/Ultroid/issues/401) in [TeamUltroid/Ultroid](https://github.com/TeamUltroid/Ultroid)
-5. 🗣 Commented on [#422](https://github.com/TeamUltroid/Ultroid/pull/422#issuecomment-1637206900) in [TeamUltroid/Ultroid](https://github.com/TeamUltroid/Ultroid)
+1. 🚀 Published release [pre-release](https://github.com/xditya/LyricsSearcher/releases/tag/v0.1) in [xditya/LyricsSearcher](https://github.com/xditya/LyricsSearcher)
+2. ❌ Closed PR [#422](https://github.com/TeamUltroid/Ultroid/pull/422) in [TeamUltroid/Ultroid](https://github.com/TeamUltroid/Ultroid)
+3. 🔒 Closed issue [#374](https://github.com/TeamUltroid/Ultroid/issues/374) in [TeamUltroid/Ultroid](https://github.com/TeamUltroid/Ultroid)
+4. 🔒 Closed issue [#394](https://github.com/TeamUltroid/Ultroid/issues/394) in [TeamUltroid/Ultroid](https://github.com/TeamUltroid/Ultroid)
+5. 🔒 Closed issue [#401](https://github.com/TeamUltroid/Ultroid/issues/401) in [TeamUltroid/Ultroid](https://github.com/TeamUltroid/Ultroid)
 <!--END_SECTION:activity-->
 
 ---
