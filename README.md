@@ -56,11 +56,11 @@ Bash              9 hrs 34 mins   ⣶⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀�
 ## 💻 Latest Activities
 
 <!--START_SECTION:activity-->
-1. ❌ Closed PR [#4](https://github.com/xditya/ForceSub/pull/4) in [xditya/ForceSub](https://github.com/xditya/ForceSub)
-2. 🎉 Merged PR [#3](https://github.com/xditya/ForceSub/pull/3) in [xditya/ForceSub](https://github.com/xditya/ForceSub)
-3. 🗣 Commented on [#22](https://github.com/xditya/ChannelAutoPost/issues/22#issuecomment-1685622665) in [xditya/ChannelAutoPost](https://github.com/xditya/ChannelAutoPost)
-4. 🚀 Published release [pre-release](https://github.com/xditya/LyricsSearcher/releases/tag/v0.1) in [xditya/LyricsSearcher](https://github.com/xditya/LyricsSearcher)
-5. ❌ Closed PR [#422](https://github.com/TeamUltroid/Ultroid/pull/422) in [TeamUltroid/Ultroid](https://github.com/TeamUltroid/Ultroid)
+1. 💪 Opened PR [#2](https://github.com/xditya/skills-communicate-using-markdown/pull/2) in [xditya/skills-communicate-using-markdown](https://github.com/xditya/skills-communicate-using-markdown)
+2. 🎉 Merged PR [#2](https://github.com/xditya/skills-introduction-to-github/pull/2) in [xditya/skills-introduction-to-github](https://github.com/xditya/skills-introduction-to-github)
+3. 💪 Opened PR [#2](https://github.com/xditya/skills-introduction-to-github/pull/2) in [xditya/skills-introduction-to-github](https://github.com/xditya/skills-introduction-to-github)
+4. 🎉 Merged PR [#1](https://github.com/xditya/skills-introduction-to-github/pull/1) in [xditya/skills-introduction-to-github](https://github.com/xditya/skills-introduction-to-github)
+5. ❌ Closed PR [#4](https://github.com/xditya/ForceSub/pull/4) in [xditya/ForceSub](https://github.com/xditya/ForceSub)
 <!--END_SECTION:activity-->
 
 ---
