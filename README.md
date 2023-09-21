@@ -57,11 +57,11 @@ Bash              9 hrs 34 mins   ⣶⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀�
 ## 💻 Latest Activities
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#2](https://github.com/xditya/skills-github-pages/pull/2) in [xditya/skills-github-pages](https://github.com/xditya/skills-github-pages)
-2. 💪 Opened PR [#2](https://github.com/xditya/skills-github-pages/pull/2) in [xditya/skills-github-pages](https://github.com/xditya/skills-github-pages)
-3. 🎉 Merged PR [#2](https://github.com/xditya/skills-communicate-using-markdown/pull/2) in [xditya/skills-communicate-using-markdown](https://github.com/xditya/skills-communicate-using-markdown)
-4. 💪 Opened PR [#2](https://github.com/xditya/skills-communicate-using-markdown/pull/2) in [xditya/skills-communicate-using-markdown](https://github.com/xditya/skills-communicate-using-markdown)
-5. 🎉 Merged PR [#2](https://github.com/xditya/skills-introduction-to-github/pull/2) in [xditya/skills-introduction-to-github](https://github.com/xditya/skills-introduction-to-github)
+1. 💪 Opened PR [#1](https://github.com/AswinAsok/AswinAsok/pull/1) in [AswinAsok/AswinAsok](https://github.com/AswinAsok/AswinAsok)
+2. 🎉 Merged PR [#2](https://github.com/xditya/skills-github-pages/pull/2) in [xditya/skills-github-pages](https://github.com/xditya/skills-github-pages)
+3. 💪 Opened PR [#2](https://github.com/xditya/skills-github-pages/pull/2) in [xditya/skills-github-pages](https://github.com/xditya/skills-github-pages)
+4. 🎉 Merged PR [#2](https://github.com/xditya/skills-communicate-using-markdown/pull/2) in [xditya/skills-communicate-using-markdown](https://github.com/xditya/skills-communicate-using-markdown)
+5. 💪 Opened PR [#2](https://github.com/xditya/skills-communicate-using-markdown/pull/2) in [xditya/skills-communicate-using-markdown](https://github.com/xditya/skills-communicate-using-markdown)
 <!--END_SECTION:activity-->
 
 ---
