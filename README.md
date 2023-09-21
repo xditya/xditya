@@ -23,6 +23,7 @@
 <a href="https://youtube.com/xditya" class="padded"><img align="left" alt="xditya" width="28px" src="./res/youtube.png" /></a> 
 <a href="https://telegram.dog/xditya" class="padded"><img align="left" alt="xditya" width="28px" src="./res/telegram.png" /></a> 
 <a href="https://twitter.com/its_xditya" class="padded"><img align="left" alt="xditya" width="28px" src="./res/twitter.png" /></a> 
+<a href="https://linkedin.com/in/xditya" class="padded"><img align="left" alt="xditya" width="28px" src="./res/linkedin.png" /></a> 
 </br>
 
 ---
@@ -65,7 +66,7 @@ Bash              9 hrs 34 mins   ⣶⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀�
 
 ---
 
-## LOC
+## 👨‍💻 LOC
 [![Lines of Code](https://api.githubtrends.io/user/svg/xditya/langs?time_range=one_year&include_private=True&loc_metric=changed&theme=dark)](https://xditya.me)
 
 ---
