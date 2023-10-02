@@ -86,13 +86,13 @@ Bash              9 hrs 35 mins   ⣶⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀�
 
 ---
 
+## 📋 Badges
+[![An image of @xditya's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/xditya)](https://holopin.io/@xditya)
+
+---
+
 ## 💰 Support Me
 
 <a href="https://ko-fi.com/xditya" class="padded"><img height="35" style="border:0px;height:35px;" alt="xditya" src="https://az743702.vo.msecnd.net/cdn/kofi3.png?v=0" /></a>
 <a href="https://www.paypal.me/xditya7" class="padded"><img height="35" style="border:0px;height:35px;" alt="xditya" src="https://cdn.rawgit.com/twolfson/paypal-github-button/1.0.0/dist/button.svg" /></a>
 <a href="https://www.digitalocean.com/?refcode=7b7d6a915392&utm_campaign=Referral_Invite&utm_medium=Referral_Program&utm_source=badge"><img height="35" style="border:0px;height:35px;" alt="xditya" src="https://web-platforms.sfo2.digitaloceanspaces.com/WWW/Badge%202.svg" alt="DigitalOcean Referral Badge" /></a>
-
----
-
-## 📋 Badges
-[![An image of @xditya's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/xditya)](https://holopin.io/@xditya)
