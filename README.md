@@ -66,11 +66,11 @@ Bash              9 hrs 35 mins   ⣶⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀�
 ## 💻 Latest Activities
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#3](https://github.com/xditya/GetRestrictedMessages/pull/3) in [xditya/GetRestrictedMessages](https://github.com/xditya/GetRestrictedMessages)
-2. 🗣 Commented on [#3](https://github.com/xditya/GetRestrictedMessages/pull/3#issuecomment-1738729533) in [xditya/GetRestrictedMessages](https://github.com/xditya/GetRestrictedMessages)
-3. 🔒 Closed issue [#23](https://github.com/xditya/ChannelAutoPost/issues/23) in [xditya/ChannelAutoPost](https://github.com/xditya/ChannelAutoPost)
-4. 💪 Opened PR [#1](https://github.com/AswinAsok/AswinAsok/pull/1) in [AswinAsok/AswinAsok](https://github.com/AswinAsok/AswinAsok)
-5. 🎉 Merged PR [#2](https://github.com/xditya/skills-github-pages/pull/2) in [xditya/skills-github-pages](https://github.com/xditya/skills-github-pages)
+1. 💪 Opened PR [#1](https://github.com/buddhhu/sorting-algorithms/pull/1) in [buddhhu/sorting-algorithms](https://github.com/buddhhu/sorting-algorithms)
+2. 💪 Opened PR [#1](https://github.com/SpEcHiDe/JsonBot/pull/1) in [SpEcHiDe/JsonBot](https://github.com/SpEcHiDe/JsonBot)
+3. 🎉 Merged PR [#42](https://github.com/xditya/ChannelActionsBot/pull/42) in [xditya/ChannelActionsBot](https://github.com/xditya/ChannelActionsBot)
+4. 🎉 Merged PR [#3](https://github.com/xditya/GetRestrictedMessages/pull/3) in [xditya/GetRestrictedMessages](https://github.com/xditya/GetRestrictedMessages)
+5. 🗣 Commented on [#3](https://github.com/xditya/GetRestrictedMessages/pull/3#issuecomment-1738729533) in [xditya/GetRestrictedMessages](https://github.com/xditya/GetRestrictedMessages)
 <!--END_SECTION:activity-->
 
 ---
