@@ -66,11 +66,11 @@ Bash              10 hrs 5 mins   ⣶⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀�
 ## 💻 Latest Activities
 
 <!--START_SECTION:activity-->
-1. ❌ Closed PR [#427](https://github.com/TeamUltroid/Ultroid/pull/427) in [TeamUltroid/Ultroid](https://github.com/TeamUltroid/Ultroid)
-2. 🗣 Commented on [#427](https://github.com/TeamUltroid/Ultroid/pull/427#issuecomment-1750884689) in [TeamUltroid/Ultroid](https://github.com/TeamUltroid/Ultroid)
-3. 💪 Opened PR [#1](https://github.com/buddhhu/sorting-algorithms/pull/1) in [buddhhu/sorting-algorithms](https://github.com/buddhhu/sorting-algorithms)
-4. 💪 Opened PR [#1](https://github.com/SpEcHiDe/JsonBot/pull/1) in [SpEcHiDe/JsonBot](https://github.com/SpEcHiDe/JsonBot)
-5. 🎉 Merged PR [#42](https://github.com/xditya/ChannelActionsBot/pull/42) in [xditya/ChannelActionsBot](https://github.com/xditya/ChannelActionsBot)
+1. 💪 Opened PR [#240](https://github.com/gtech-mulearn/Top-100-Coders/pull/240) in [gtech-mulearn/Top-100-Coders](https://github.com/gtech-mulearn/Top-100-Coders)
+2. ❌ Closed PR [#427](https://github.com/TeamUltroid/Ultroid/pull/427) in [TeamUltroid/Ultroid](https://github.com/TeamUltroid/Ultroid)
+3. 🗣 Commented on [#427](https://github.com/TeamUltroid/Ultroid/pull/427#issuecomment-1750884689) in [TeamUltroid/Ultroid](https://github.com/TeamUltroid/Ultroid)
+4. 💪 Opened PR [#1](https://github.com/buddhhu/sorting-algorithms/pull/1) in [buddhhu/sorting-algorithms](https://github.com/buddhhu/sorting-algorithms)
+5. 💪 Opened PR [#1](https://github.com/SpEcHiDe/JsonBot/pull/1) in [SpEcHiDe/JsonBot](https://github.com/SpEcHiDe/JsonBot)
 <!--END_SECTION:activity-->
 
 ---
