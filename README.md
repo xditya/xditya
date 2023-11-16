@@ -66,11 +66,11 @@ Bash              10 hrs 20 mins  ⣶⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀�
 ## 💻 Latest Activities
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#240](https://github.com/gtech-mulearn/Top-100-Coders/pull/240) in [gtech-mulearn/Top-100-Coders](https://github.com/gtech-mulearn/Top-100-Coders)
-2. ❌ Closed PR [#427](https://github.com/TeamUltroid/Ultroid/pull/427) in [TeamUltroid/Ultroid](https://github.com/TeamUltroid/Ultroid)
-3. 🗣 Commented on [#427](https://github.com/TeamUltroid/Ultroid/pull/427#issuecomment-1750884689) in [TeamUltroid/Ultroid](https://github.com/TeamUltroid/Ultroid)
-4. 💪 Opened PR [#1](https://github.com/buddhhu/sorting-algorithms/pull/1) in [buddhhu/sorting-algorithms](https://github.com/buddhhu/sorting-algorithms)
-5. 💪 Opened PR [#1](https://github.com/SpEcHiDe/JsonBot/pull/1) in [SpEcHiDe/JsonBot](https://github.com/SpEcHiDe/JsonBot)
+1. ❗ Opened issue [#13](https://github.com/gtech-mulearn/Top100-OpenAi-Challenge/issues/13) in [gtech-mulearn/Top100-OpenAi-Challenge](https://github.com/gtech-mulearn/Top100-OpenAi-Challenge)
+2. 💪 Opened PR [#240](https://github.com/gtech-mulearn/Top-100-Coders/pull/240) in [gtech-mulearn/Top-100-Coders](https://github.com/gtech-mulearn/Top-100-Coders)
+3. ❌ Closed PR [#427](https://github.com/TeamUltroid/Ultroid/pull/427) in [TeamUltroid/Ultroid](https://github.com/TeamUltroid/Ultroid)
+4. 🗣 Commented on [#427](https://github.com/TeamUltroid/Ultroid/pull/427#issuecomment-1750884689) in [TeamUltroid/Ultroid](https://github.com/TeamUltroid/Ultroid)
+5. 💪 Opened PR [#1](https://github.com/buddhhu/sorting-algorithms/pull/1) in [buddhhu/sorting-algorithms](https://github.com/buddhhu/sorting-algorithms)
 <!--END_SECTION:activity-->
 
 ---
