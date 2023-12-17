@@ -66,11 +66,11 @@ Bash              10 hrs 36 mins  ⣶⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀�
 ## 💻 Latest Activities
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#546](https://github.com/gtech-mulearn/Top-100-Coders/pull/546) in [gtech-mulearn/Top-100-Coders](https://github.com/gtech-mulearn/Top-100-Coders)
-2. 🗣 Commented on [#13](https://github.com/gtech-mulearn/Top100-OpenAi-Challenge/issues/13#issuecomment-1814506237) in [gtech-mulearn/Top100-OpenAi-Challenge](https://github.com/gtech-mulearn/Top100-OpenAi-Challenge)
-3. ❗ Opened issue [#13](https://github.com/gtech-mulearn/Top100-OpenAi-Challenge/issues/13) in [gtech-mulearn/Top100-OpenAi-Challenge](https://github.com/gtech-mulearn/Top100-OpenAi-Challenge)
-4. 💪 Opened PR [#240](https://github.com/gtech-mulearn/Top-100-Coders/pull/240) in [gtech-mulearn/Top-100-Coders](https://github.com/gtech-mulearn/Top-100-Coders)
-5. ❌ Closed PR [#427](https://github.com/TeamUltroid/Ultroid/pull/427) in [TeamUltroid/Ultroid](https://github.com/TeamUltroid/Ultroid)
+1. 💪 Opened PR [#449](https://github.com/gtech-mulearn/Github-Enablment-Task/pull/449) in [gtech-mulearn/Github-Enablment-Task](https://github.com/gtech-mulearn/Github-Enablment-Task)
+2. 💪 Opened PR [#546](https://github.com/gtech-mulearn/Top-100-Coders/pull/546) in [gtech-mulearn/Top-100-Coders](https://github.com/gtech-mulearn/Top-100-Coders)
+3. 🗣 Commented on [#13](https://github.com/gtech-mulearn/Top100-OpenAi-Challenge/issues/13#issuecomment-1814506237) in [gtech-mulearn/Top100-OpenAi-Challenge](https://github.com/gtech-mulearn/Top100-OpenAi-Challenge)
+4. ❗ Opened issue [#13](https://github.com/gtech-mulearn/Top100-OpenAi-Challenge/issues/13) in [gtech-mulearn/Top100-OpenAi-Challenge](https://github.com/gtech-mulearn/Top100-OpenAi-Challenge)
+5. 💪 Opened PR [#240](https://github.com/gtech-mulearn/Top-100-Coders/pull/240) in [gtech-mulearn/Top-100-Coders](https://github.com/gtech-mulearn/Top-100-Coders)
 <!--END_SECTION:activity-->
 
 ---
