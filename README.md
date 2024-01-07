@@ -66,11 +66,11 @@ Bash              10 hrs 50 mins  ⣶⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀�
 ## 💻 Latest Activities
 
 <!--START_SECTION:activity-->
-1. ❌ Closed PR [#43](https://github.com/xditya/ChannelActionsBot/pull/43) in [xditya/ChannelActionsBot](https://github.com/xditya/ChannelActionsBot)
-2. 🗣 Commented on [#43](https://github.com/xditya/ChannelActionsBot/pull/43#issuecomment-1879601913) in [xditya/ChannelActionsBot](https://github.com/xditya/ChannelActionsBot)
-3. 🎉 Merged PR [#1](https://github.com/xditya/skills-communicate-using-markdown1/pull/1) in [xditya/skills-communicate-using-markdown1](https://github.com/xditya/skills-communicate-using-markdown1)
-4. 💪 Opened PR [#1](https://github.com/xditya/skills-communicate-using-markdown1/pull/1) in [xditya/skills-communicate-using-markdown1](https://github.com/xditya/skills-communicate-using-markdown1)
-5. 💪 Opened PR [#449](https://github.com/gtech-mulearn/Github-Enablment-Task/pull/449) in [gtech-mulearn/Github-Enablment-Task](https://github.com/gtech-mulearn/Github-Enablment-Task)
+1. 💪 Opened PR [#1](https://github.com/MTKruto/website/pull/1) in [MTKruto/website](https://github.com/MTKruto/website)
+2. ❌ Closed PR [#43](https://github.com/xditya/ChannelActionsBot/pull/43) in [xditya/ChannelActionsBot](https://github.com/xditya/ChannelActionsBot)
+3. 🗣 Commented on [#43](https://github.com/xditya/ChannelActionsBot/pull/43#issuecomment-1879601913) in [xditya/ChannelActionsBot](https://github.com/xditya/ChannelActionsBot)
+4. 🎉 Merged PR [#1](https://github.com/xditya/skills-communicate-using-markdown1/pull/1) in [xditya/skills-communicate-using-markdown1](https://github.com/xditya/skills-communicate-using-markdown1)
+5. 💪 Opened PR [#1](https://github.com/xditya/skills-communicate-using-markdown1/pull/1) in [xditya/skills-communicate-using-markdown1](https://github.com/xditya/skills-communicate-using-markdown1)
 <!--END_SECTION:activity-->
 
 ---
