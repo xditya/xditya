@@ -66,11 +66,11 @@ Bash              10 hrs 58 mins  ⣶⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀�
 ## 💻 Latest Activities
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#1](https://github.com/MTKruto/website/pull/1) in [MTKruto/website](https://github.com/MTKruto/website)
-2. ❌ Closed PR [#43](https://github.com/xditya/ChannelActionsBot/pull/43) in [xditya/ChannelActionsBot](https://github.com/xditya/ChannelActionsBot)
-3. 🗣 Commented on [#43](https://github.com/xditya/ChannelActionsBot/pull/43#issuecomment-1879601913) in [xditya/ChannelActionsBot](https://github.com/xditya/ChannelActionsBot)
-4. 🎉 Merged PR [#1](https://github.com/xditya/skills-communicate-using-markdown1/pull/1) in [xditya/skills-communicate-using-markdown1](https://github.com/xditya/skills-communicate-using-markdown1)
-5. 💪 Opened PR [#1](https://github.com/xditya/skills-communicate-using-markdown1/pull/1) in [xditya/skills-communicate-using-markdown1](https://github.com/xditya/skills-communicate-using-markdown1)
+1. 🎉 Merged PR [#1](https://github.com/xditya/visiting-card-generator/pull/1) in [xditya/visiting-card-generator](https://github.com/xditya/visiting-card-generator)
+2. 🔒 Closed issue [#13](https://github.com/gtech-mulearn/Top100-OpenAi-Challenge/issues/13) in [gtech-mulearn/Top100-OpenAi-Challenge](https://github.com/gtech-mulearn/Top100-OpenAi-Challenge)
+3. 💪 Opened PR [#1](https://github.com/MTKruto/website/pull/1) in [MTKruto/website](https://github.com/MTKruto/website)
+4. ❌ Closed PR [#43](https://github.com/xditya/ChannelActionsBot/pull/43) in [xditya/ChannelActionsBot](https://github.com/xditya/ChannelActionsBot)
+5. 🗣 Commented on [#43](https://github.com/xditya/ChannelActionsBot/pull/43#issuecomment-1879601913) in [xditya/ChannelActionsBot](https://github.com/xditya/ChannelActionsBot)
 <!--END_SECTION:activity-->
 
 ---
