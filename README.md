@@ -66,11 +66,11 @@ Bash              11 hrs 9 mins   ⣶⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀�
 ## 💻 Latest Activities
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#442](https://github.com/TeamUltroid/Ultroid/pull/442#issuecomment-1922855544) in [TeamUltroid/Ultroid](https://github.com/TeamUltroid/Ultroid)
-2. ❌ Closed PR [#442](https://github.com/TeamUltroid/Ultroid/pull/442) in [TeamUltroid/Ultroid](https://github.com/TeamUltroid/Ultroid)
-3. 🗣 Commented on [#441](https://github.com/TeamUltroid/Ultroid/pull/441#issuecomment-1922854971) in [TeamUltroid/Ultroid](https://github.com/TeamUltroid/Ultroid)
-4. ❌ Closed PR [#441](https://github.com/TeamUltroid/Ultroid/pull/441) in [TeamUltroid/Ultroid](https://github.com/TeamUltroid/Ultroid)
-5. 🗣 Commented on [#429](https://github.com/TeamUltroid/Ultroid/pull/429#issuecomment-1916633237) in [TeamUltroid/Ultroid](https://github.com/TeamUltroid/Ultroid)
+1. ❌ Closed PR [#1](https://github.com/xditya/MorseCodeEncoder/pull/1) in [xditya/MorseCodeEncoder](https://github.com/xditya/MorseCodeEncoder)
+2. 🗣 Commented on [#442](https://github.com/TeamUltroid/Ultroid/pull/442#issuecomment-1922855544) in [TeamUltroid/Ultroid](https://github.com/TeamUltroid/Ultroid)
+3. ❌ Closed PR [#442](https://github.com/TeamUltroid/Ultroid/pull/442) in [TeamUltroid/Ultroid](https://github.com/TeamUltroid/Ultroid)
+4. 🗣 Commented on [#441](https://github.com/TeamUltroid/Ultroid/pull/441#issuecomment-1922854971) in [TeamUltroid/Ultroid](https://github.com/TeamUltroid/Ultroid)
+5. ❌ Closed PR [#441](https://github.com/TeamUltroid/Ultroid/pull/441) in [TeamUltroid/Ultroid](https://github.com/TeamUltroid/Ultroid)
 <!--END_SECTION:activity-->
 
 ---
