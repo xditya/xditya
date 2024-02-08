@@ -82,8 +82,6 @@ Bash              11 hrs 21 mins  ⣶⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀�
 
 ## 🎵 Now playing
 
-[![Apple Music GitHub profile](https://music-profile.rayriffy.com/theme/dark.svg?uid=000023.2f00fb5ce6ea4b17ab6320f1a391f81e.1134)](https://github.com/rayriffy/apple-music-github-profile)
-
 [![Spotify](https://spotify-readme-new-lyart.vercel.app/api?theme=dark&rainbow=true&scan=true)](https://open.spotify.com/user/on84l0syf9y9m2m84unz4h8uq)
 
 ---
