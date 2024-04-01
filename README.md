@@ -66,11 +66,11 @@ Bash              12 hrs 1 min    ⣶⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀�
 ## 💻 Latest Activities
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#1](https://github.com/dscmbcet/le-debut24/pull/1) in [dscmbcet/le-debut24](https://github.com/dscmbcet/le-debut24)
-2. 💪 Opened PR [#2](https://github.com/roj1512/envalid/pull/2) in [roj1512/envalid](https://github.com/roj1512/envalid)
-3. ❌ Closed PR [#1](https://github.com/xditya/MorseCodeEncoder/pull/1) in [xditya/MorseCodeEncoder](https://github.com/xditya/MorseCodeEncoder)
-4. 🗣 Commented on [#442](https://github.com/TeamUltroid/Ultroid/pull/442#issuecomment-1922855544) in [TeamUltroid/Ultroid](https://github.com/TeamUltroid/Ultroid)
-5. ❌ Closed PR [#442](https://github.com/TeamUltroid/Ultroid/pull/442) in [TeamUltroid/Ultroid](https://github.com/TeamUltroid/Ultroid)
+1. 🗣 Commented on [#411](https://github.com/TeamUltroid/Ultroid/issues/411#issuecomment-2029120044) in [TeamUltroid/Ultroid](https://github.com/TeamUltroid/Ultroid)
+2. 🔒 Closed issue [#411](https://github.com/TeamUltroid/Ultroid/issues/411) in [TeamUltroid/Ultroid](https://github.com/TeamUltroid/Ultroid)
+3. 🔒 Closed issue [#443](https://github.com/TeamUltroid/Ultroid/issues/443) in [TeamUltroid/Ultroid](https://github.com/TeamUltroid/Ultroid)
+4. 🗣 Commented on [#443](https://github.com/TeamUltroid/Ultroid/issues/443#issuecomment-2029118218) in [TeamUltroid/Ultroid](https://github.com/TeamUltroid/Ultroid)
+5. 💪 Opened PR [#1](https://github.com/dscmbcet/le-debut24/pull/1) in [dscmbcet/le-debut24](https://github.com/dscmbcet/le-debut24)
 <!--END_SECTION:activity-->
 
 ---
