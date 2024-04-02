@@ -66,11 +66,11 @@ Bash              12 hrs 8 mins   ⣶⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀�
 ## 💻 Latest Activities
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#10](https://github.com/xditya/BotStatus/issues/10#issuecomment-2030981527) in [xditya/BotStatus](https://github.com/xditya/BotStatus)
-2. 🗣 Commented on [#411](https://github.com/TeamUltroid/Ultroid/issues/411#issuecomment-2029120044) in [TeamUltroid/Ultroid](https://github.com/TeamUltroid/Ultroid)
-3. 🔒 Closed issue [#411](https://github.com/TeamUltroid/Ultroid/issues/411) in [TeamUltroid/Ultroid](https://github.com/TeamUltroid/Ultroid)
-4. 🔒 Closed issue [#443](https://github.com/TeamUltroid/Ultroid/issues/443) in [TeamUltroid/Ultroid](https://github.com/TeamUltroid/Ultroid)
-5. 🗣 Commented on [#443](https://github.com/TeamUltroid/Ultroid/issues/443#issuecomment-2029118218) in [TeamUltroid/Ultroid](https://github.com/TeamUltroid/Ultroid)
+1. 🔒 Closed issue [#10](https://github.com/xditya/BotStatus/issues/10) in [xditya/BotStatus](https://github.com/xditya/BotStatus)
+2. 🗣 Commented on [#10](https://github.com/xditya/BotStatus/issues/10#issuecomment-2030981527) in [xditya/BotStatus](https://github.com/xditya/BotStatus)
+3. 🗣 Commented on [#411](https://github.com/TeamUltroid/Ultroid/issues/411#issuecomment-2029120044) in [TeamUltroid/Ultroid](https://github.com/TeamUltroid/Ultroid)
+4. 🔒 Closed issue [#411](https://github.com/TeamUltroid/Ultroid/issues/411) in [TeamUltroid/Ultroid](https://github.com/TeamUltroid/Ultroid)
+5. 🔒 Closed issue [#443](https://github.com/TeamUltroid/Ultroid/issues/443) in [TeamUltroid/Ultroid](https://github.com/TeamUltroid/Ultroid)
 <!--END_SECTION:activity-->
 
 ---
