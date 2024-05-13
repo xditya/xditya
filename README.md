@@ -66,11 +66,11 @@ Bash              12 hrs 23 mins  ⣶⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀�
 ## 💻 Latest Activities
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#244](https://github.com/gtech-mulearn/IEEE-LAUNCHPAD/pull/244) in [gtech-mulearn/IEEE-LAUNCHPAD](https://github.com/gtech-mulearn/IEEE-LAUNCHPAD)
-2. 🎉 Merged PR [#4](https://github.com/dscmbcet/website-3.0/pull/4) in [dscmbcet/website-3.0](https://github.com/dscmbcet/website-3.0)
-3. 🔒 Closed issue [#10](https://github.com/xditya/BotStatus/issues/10) in [xditya/BotStatus](https://github.com/xditya/BotStatus)
-4. 🗣 Commented on [#10](https://github.com/xditya/BotStatus/issues/10#issuecomment-2030981527) in [xditya/BotStatus](https://github.com/xditya/BotStatus)
-5. 🗣 Commented on [#411](https://github.com/TeamUltroid/Ultroid/issues/411#issuecomment-2029120044) in [TeamUltroid/Ultroid](https://github.com/TeamUltroid/Ultroid)
+1. 🔒 Closed issue [#3](https://github.com/xditya/WPTagAll/issues/3) in [xditya/WPTagAll](https://github.com/xditya/WPTagAll)
+2. 💪 Opened PR [#244](https://github.com/gtech-mulearn/IEEE-LAUNCHPAD/pull/244) in [gtech-mulearn/IEEE-LAUNCHPAD](https://github.com/gtech-mulearn/IEEE-LAUNCHPAD)
+3. 🎉 Merged PR [#4](https://github.com/dscmbcet/website-3.0/pull/4) in [dscmbcet/website-3.0](https://github.com/dscmbcet/website-3.0)
+4. 🔒 Closed issue [#10](https://github.com/xditya/BotStatus/issues/10) in [xditya/BotStatus](https://github.com/xditya/BotStatus)
+5. 🗣 Commented on [#10](https://github.com/xditya/BotStatus/issues/10#issuecomment-2030981527) in [xditya/BotStatus](https://github.com/xditya/BotStatus)
 <!--END_SECTION:activity-->
 
 ---
