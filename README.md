@@ -66,11 +66,11 @@ Bash              12 hrs 58 mins  ⣶⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀�
 ## 💻 Latest Activities
 
 <!--START_SECTION:activity-->
-1. 🔒 Closed issue [#3](https://github.com/xditya/WPTagAll/issues/3) in [xditya/WPTagAll](https://github.com/xditya/WPTagAll)
-2. 💪 Opened PR [#244](https://github.com/gtech-mulearn/IEEE-LAUNCHPAD/pull/244) in [gtech-mulearn/IEEE-LAUNCHPAD](https://github.com/gtech-mulearn/IEEE-LAUNCHPAD)
-3. 🎉 Merged PR [#4](https://github.com/dscmbcet/website-3.0/pull/4) in [dscmbcet/website-3.0](https://github.com/dscmbcet/website-3.0)
-4. 🔒 Closed issue [#10](https://github.com/xditya/BotStatus/issues/10) in [xditya/BotStatus](https://github.com/xditya/BotStatus)
-5. 🗣 Commented on [#10](https://github.com/xditya/BotStatus/issues/10#issuecomment-2030981527) in [xditya/BotStatus](https://github.com/xditya/BotStatus)
+1. 🗣 Commented on [#2](https://github.com/xditya/TGdetailsBot/issues/2#issuecomment-2121573576) in [xditya/TGdetailsBot](https://github.com/xditya/TGdetailsBot)
+2. 🔒 Closed issue [#2](https://github.com/xditya/TGdetailsBot/issues/2) in [xditya/TGdetailsBot](https://github.com/xditya/TGdetailsBot)
+3. 🔒 Closed issue [#3](https://github.com/xditya/WPTagAll/issues/3) in [xditya/WPTagAll](https://github.com/xditya/WPTagAll)
+4. 💪 Opened PR [#244](https://github.com/gtech-mulearn/IEEE-LAUNCHPAD/pull/244) in [gtech-mulearn/IEEE-LAUNCHPAD](https://github.com/gtech-mulearn/IEEE-LAUNCHPAD)
+5. 🎉 Merged PR [#4](https://github.com/dscmbcet/website-3.0/pull/4) in [dscmbcet/website-3.0](https://github.com/dscmbcet/website-3.0)
 <!--END_SECTION:activity-->
 
 ---
