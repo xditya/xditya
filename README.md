@@ -66,11 +66,11 @@ Bash              13 hrs 11 mins  ⣶⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀�
 ## 💻 Latest Activities
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#16](https://github.com/switchcollab/Switch-Bots-Python-Library/pull/16) in [switchcollab/Switch-Bots-Python-Library](https://github.com/switchcollab/Switch-Bots-Python-Library)
-2. 🗣 Commented on [#2](https://github.com/xditya/TGdetailsBot/issues/2#issuecomment-2121573576) in [xditya/TGdetailsBot](https://github.com/xditya/TGdetailsBot)
-3. 🔒 Closed issue [#2](https://github.com/xditya/TGdetailsBot/issues/2) in [xditya/TGdetailsBot](https://github.com/xditya/TGdetailsBot)
-4. 🔒 Closed issue [#3](https://github.com/xditya/WPTagAll/issues/3) in [xditya/WPTagAll](https://github.com/xditya/WPTagAll)
-5. 💪 Opened PR [#244](https://github.com/gtech-mulearn/IEEE-LAUNCHPAD/pull/244) in [gtech-mulearn/IEEE-LAUNCHPAD](https://github.com/gtech-mulearn/IEEE-LAUNCHPAD)
+1. ❌ Closed PR [#1](https://github.com/zjunior06/HarukaAya/pull/1) in [zjunior06/HarukaAya](https://github.com/zjunior06/HarukaAya)
+2. ❌ Closed PR [#1](https://github.com/Avishekbhattacharjee/Harita-Robot/pull/1) in [Avishekbhattacharjee/Harita-Robot](https://github.com/Avishekbhattacharjee/Harita-Robot)
+3. ❌ Closed PR [#1](https://github.com/dscmbcet/le-debut24/pull/1) in [dscmbcet/le-debut24](https://github.com/dscmbcet/le-debut24)
+4. 💪 Opened PR [#16](https://github.com/switchcollab/Switch-Bots-Python-Library/pull/16) in [switchcollab/Switch-Bots-Python-Library](https://github.com/switchcollab/Switch-Bots-Python-Library)
+5. 🗣 Commented on [#2](https://github.com/xditya/TGdetailsBot/issues/2#issuecomment-2121573576) in [xditya/TGdetailsBot](https://github.com/xditya/TGdetailsBot)
 <!--END_SECTION:activity-->
 
 ---
