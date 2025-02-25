@@ -66,9 +66,9 @@ JavaScript        34 hrs 49 mins  ⣿⣦⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀�
 ## 💻 Latest Activities
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#2](https://github.com/xditya/WebShortener/issues/2#issuecomment-2679117697) in [xditya/WebShortener](https://github.com/xditya/WebShortener)
-2. ❌ Closed PR [#1](https://github.com/zjunior06/HarukaAya/pull/1) in [zjunior06/HarukaAya](https://github.com/zjunior06/HarukaAya)
-3. ❌ Closed PR [#1](https://github.com/Avishekbhattacharjee/Harita-Robot/pull/1) in [Avishekbhattacharjee/Harita-Robot](https://github.com/Avishekbhattacharjee/Harita-Robot)
+1. 🗣 Commented on [#2](https://github.com/xditya/WebShortener/issues/2#issuecomment-2679273779) in [xditya/WebShortener](https://github.com/xditya/WebShortener)
+2. 🔒 Closed issue [#2](https://github.com/xditya/WebShortener/issues/2) in [xditya/WebShortener](https://github.com/xditya/WebShortener)
+3. 🗣 Commented on [#2](https://github.com/xditya/WebShortener/issues/2#issuecomment-2679117697) in [xditya/WebShortener](https://github.com/xditya/WebShortener)
 4. ❌ Closed PR [#1](https://github.com/dscmbcet/le-debut24/pull/1) in [dscmbcet/le-debut24](https://github.com/dscmbcet/le-debut24)
 5. 💪 Opened PR [#16](https://github.com/switchcollab/Switch-Bots-Python-Library/pull/16) in [switchcollab/Switch-Bots-Python-Library](https://github.com/switchcollab/Switch-Bots-Python-Library)
 <!--END_SECTION:activity-->
