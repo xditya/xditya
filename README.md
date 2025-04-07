@@ -66,7 +66,7 @@ JavaScript        35 hrs 10 mins  ⣿⣤⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀�
 ## 💻 Latest Activities
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#44](https://github.com/xditya/ChannelActionsBot/issues/44#issuecomment-2692677392) in [xditya/ChannelActionsBot](https://github.com/xditya/ChannelActionsBot)
+1. 🚀 Published release [1.0](https://github.com/xditya/database-visualiser/releases/tag/v1) in [xditya/database-visualiser](https://github.com/xditya/database-visualiser)
 2. 🔒 Closed issue [#44](https://github.com/xditya/ChannelActionsBot/issues/44) in [xditya/ChannelActionsBot](https://github.com/xditya/ChannelActionsBot)
 3. 🗣 Commented on [#44](https://github.com/xditya/ChannelActionsBot/issues/44#issuecomment-2692671560) in [xditya/ChannelActionsBot](https://github.com/xditya/ChannelActionsBot)
 4. 🗣 Commented on [#44](https://github.com/xditya/ChannelActionsBot/issues/44#issuecomment-2692664132) in [xditya/ChannelActionsBot](https://github.com/xditya/ChannelActionsBot)
