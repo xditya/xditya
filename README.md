@@ -29,11 +29,11 @@
 ## 🎥 Latest YouTube Videos
 
 <!-- YouTube:START -->
+- [Deploy Ultroid to Sevalla | Telegram UserBot | #TheUltroid](https://www.youtube.com/watch?v=-b7v30w-Ecg)
 - [Deploy Ultroid on AlwaysData | Telegram UserBot | #TheUltroid](https://www.youtube.com/watch?v=LBgXGv34XhI)
 - [Deploy Telegram Force Subscribe Bot | Join Channel to Chat in Group | Deploy to VPS](https://www.youtube.com/watch?v=8JTWG6yFi-4)
 - [Telegram Copy Restricted Messages | GetRestrictedMessages Bot | Deploy to VPS/Windows/Linux/Railway](https://www.youtube.com/watch?v=uk6kd29C9E8)
 - [Deploy Ultroid to RDP | Windows Server | Windows PC | Telegram UserBot #TheUltroid](https://www.youtube.com/watch?v=Lb6UKuDcsJE)
-- [Deploy Telegram Channel Join Request Approver Bot | ChannelActionsBot | DenoDeploy](https://www.youtube.com/watch?v=hjxfJtk5ZWs)
 <!-- YouTube:END -->
 > ➕ [View More...](https://youtube.com/xditya)
 
