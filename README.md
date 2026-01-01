@@ -66,8 +66,8 @@ JavaScript           37 hrs 4 mins   ⣿⣤⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀�
 ## 💻 Latest Activities
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#480](https://github.com/TeamUltroid/Ultroid/pull/480#issuecomment-3132913945) in [TeamUltroid/Ultroid](https://github.com/TeamUltroid/Ultroid)
-2. 🔒 Closed issue [#44](https://github.com/xditya/ChannelActionsBot/issues/44) in [xditya/ChannelActionsBot](https://github.com/xditya/ChannelActionsBot)
+1. 🔒 Closed issue [#5](https://github.com/xditya/TelethonBot/issues/5) in [xditya/TelethonBot](https://github.com/xditya/TelethonBot)
+2. 🗣 Commented on [#5](https://github.com/xditya/TelethonBot/issues/5#issuecomment-3703633035) in [xditya/TelethonBot](https://github.com/xditya/TelethonBot)
 3. 🗣 Commented on [#44](https://github.com/xditya/ChannelActionsBot/issues/44#issuecomment-2692671560) in [xditya/ChannelActionsBot](https://github.com/xditya/ChannelActionsBot)
 4. 🗣 Commented on [#44](https://github.com/xditya/ChannelActionsBot/issues/44#issuecomment-2692664132) in [xditya/ChannelActionsBot](https://github.com/xditya/ChannelActionsBot)
 5. 🗣 Commented on [#44](https://github.com/xditya/ChannelActionsBot/issues/44#issuecomment-2692569372) in [xditya/ChannelActionsBot](https://github.com/xditya/ChannelActionsBot)
