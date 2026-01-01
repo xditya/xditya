@@ -66,10 +66,10 @@ JavaScript           37 hrs 4 mins   ⣿⣤⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀�
 ## 💻 Latest Activities
 
 <!--START_SECTION:activity-->
-1. 🔒 Closed issue [#5](https://github.com/xditya/TelethonBot/issues/5) in [xditya/TelethonBot](https://github.com/xditya/TelethonBot)
-2. 🗣 Commented on [#5](https://github.com/xditya/TelethonBot/issues/5#issuecomment-3703633035) in [xditya/TelethonBot](https://github.com/xditya/TelethonBot)
-3. 🗣 Commented on [#44](https://github.com/xditya/ChannelActionsBot/issues/44#issuecomment-2692671560) in [xditya/ChannelActionsBot](https://github.com/xditya/ChannelActionsBot)
-4. 🗣 Commented on [#44](https://github.com/xditya/ChannelActionsBot/issues/44#issuecomment-2692664132) in [xditya/ChannelActionsBot](https://github.com/xditya/ChannelActionsBot)
+1. 🔒 Closed issue [#6](https://github.com/xditya/TelethonBot/issues/6) in [xditya/TelethonBot](https://github.com/xditya/TelethonBot)
+2. 🔒 Closed issue [#6](https://github.com/xditya/TelethonBot/issues/6) in [xditya/TelethonBot](https://github.com/xditya/TelethonBot)
+3. 🔒 Closed issue [#5](https://github.com/xditya/TelethonBot/issues/5) in [xditya/TelethonBot](https://github.com/xditya/TelethonBot)
+4. 🗣 Commented on [#5](https://github.com/xditya/TelethonBot/issues/5#issuecomment-3703633035) in [xditya/TelethonBot](https://github.com/xditya/TelethonBot)
 5. 🗣 Commented on [#44](https://github.com/xditya/ChannelActionsBot/issues/44#issuecomment-2692569372) in [xditya/ChannelActionsBot](https://github.com/xditya/ChannelActionsBot)
 <!--END_SECTION:activity-->
 
