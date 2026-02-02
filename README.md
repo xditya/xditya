@@ -66,7 +66,7 @@ JavaScript           37 hrs 9 mins   ⣿⣤⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀�
 ## 💻 Latest Activities
 
 <!--START_SECTION:activity-->
-1. 🔒 Closed issue [#6](https://github.com/xditya/TelethonBot/issues/6) in [xditya/TelethonBot](https://github.com/xditya/TelethonBot)
+1. 🚀 Published release [Initial Release](https://github.com/xditya/ImageTools/releases/tag/v1.0) in [xditya/ImageTools](https://github.com/xditya/ImageTools)
 2. 🔒 Closed issue [#6](https://github.com/xditya/TelethonBot/issues/6) in [xditya/TelethonBot](https://github.com/xditya/TelethonBot)
 3. 🔒 Closed issue [#5](https://github.com/xditya/TelethonBot/issues/5) in [xditya/TelethonBot](https://github.com/xditya/TelethonBot)
 4. 🗣 Commented on [#5](https://github.com/xditya/TelethonBot/issues/5#issuecomment-3703633035) in [xditya/TelethonBot](https://github.com/xditya/TelethonBot)
