@@ -66,11 +66,11 @@ JavaScript           37 hrs 9 mins         ⣿⣤⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀�
 ## 💻 Latest Activities
 
 <!--START_SECTION:activity-->
-1. 🚀 Published release [Initial Release](https://github.com/xditya/ImageTools/releases/tag/v1.0) in [xditya/ImageTools](https://github.com/xditya/ImageTools)
-2. 🔒 Closed issue [#6](https://github.com/xditya/TelethonBot/issues/6) in [xditya/TelethonBot](https://github.com/xditya/TelethonBot)
-3. 🔒 Closed issue [#5](https://github.com/xditya/TelethonBot/issues/5) in [xditya/TelethonBot](https://github.com/xditya/TelethonBot)
-4. 🗣 Commented on [#5](https://github.com/xditya/TelethonBot/issues/5#issuecomment-3703633035) in [xditya/TelethonBot](https://github.com/xditya/TelethonBot)
-5. 🗣 Commented on [#44](https://github.com/xditya/ChannelActionsBot/issues/44#issuecomment-2692569372) in [xditya/ChannelActionsBot](https://github.com/xditya/ChannelActionsBot)
+1. 🎉 Merged PR [#495](https://github.com/TeamUltroid/Ultroid/pull/495) in [TeamUltroid/Ultroid](https://github.com/TeamUltroid/Ultroid)
+2. 💪 Opened PR [#495](https://github.com/TeamUltroid/Ultroid/pull/495) in [TeamUltroid/Ultroid](https://github.com/TeamUltroid/Ultroid)
+3. ❌ Closed PR [#483](https://github.com/TeamUltroid/Ultroid/pull/483) in [TeamUltroid/Ultroid](https://github.com/TeamUltroid/Ultroid)
+4. ℹ️ Labeled PR [#481](https://github.com/TeamUltroid/Ultroid/pull/481) in [TeamUltroid/Ultroid](https://github.com/TeamUltroid/Ultroid)
+5. 🗣 Commented on [#479](https://github.com/TeamUltroid/Ultroid/pull/479#issuecomment-3980416225) in [TeamUltroid/Ultroid](https://github.com/TeamUltroid/Ultroid)
 <!--END_SECTION:activity-->
 
 ---
