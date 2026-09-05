@@ -66,9 +66,9 @@ Kotlin               40 hrs 55 mins        ⣿⣄⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀�
 ## 💻 Latest Activities
 
 <!--START_SECTION:activity-->
-1. ❌ Closed PR [#8](https://github.com/xditya/ForceSub/pull/8) in [xditya/ForceSub](https://github.com/xditya/ForceSub)
-2. 🗣 Commented on [#8](https://github.com/xditya/ForceSub/pull/8#issuecomment-5459822474) in [xditya/ForceSub](https://github.com/xditya/ForceSub)
-3. 🎉 Merged PR [#504](https://github.com/TeamUltroid/Ultroid/pull/504) in [TeamUltroid/Ultroid](https://github.com/TeamUltroid/Ultroid)
+1. ❌ Closed PR [#1](https://github.com/xditya/pastr/pull/1) in [xditya/pastr](https://github.com/xditya/pastr)
+2. ❌ Closed PR [#8](https://github.com/xditya/ForceSub/pull/8) in [xditya/ForceSub](https://github.com/xditya/ForceSub)
+3. 🗣 Commented on [#8](https://github.com/xditya/ForceSub/pull/8#issuecomment-5459822474) in [xditya/ForceSub](https://github.com/xditya/ForceSub)
 4. ℹ️ Assigned PR [#504](https://github.com/TeamUltroid/Ultroid/pull/504) in [TeamUltroid/Ultroid](https://github.com/TeamUltroid/Ultroid)
 5. 💪 Opened PR [#504](https://github.com/TeamUltroid/Ultroid/pull/504) in [TeamUltroid/Ultroid](https://github.com/TeamUltroid/Ultroid)
 <!--END_SECTION:activity-->
