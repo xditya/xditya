@@ -66,9 +66,9 @@ Kotlin               40 hrs 55 mins        ⣿⣄⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀�
 ## 💻 Latest Activities
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#4](https://github.com/xditya/portfolio/pull/4) in [xditya/portfolio](https://github.com/xditya/portfolio)
-2. 💪 Opened PR [#4](https://github.com/xditya/portfolio/pull/4) in [xditya/portfolio](https://github.com/xditya/portfolio)
-3. ❌ Closed PR [#1](https://github.com/xditya/pastr/pull/1) in [xditya/pastr](https://github.com/xditya/pastr)
+1. 🚀 Published release [v1.0.0](https://github.com/xditya/jellyfin-liquid-glass/releases/tag/v1.0.0) in [xditya/jellyfin-liquid-glass](https://github.com/xditya/jellyfin-liquid-glass)
+2. 🎉 Merged PR [#4](https://github.com/xditya/portfolio/pull/4) in [xditya/portfolio](https://github.com/xditya/portfolio)
+3. 💪 Opened PR [#4](https://github.com/xditya/portfolio/pull/4) in [xditya/portfolio](https://github.com/xditya/portfolio)
 4. ℹ️ Assigned PR [#504](https://github.com/TeamUltroid/Ultroid/pull/504) in [TeamUltroid/Ultroid](https://github.com/TeamUltroid/Ultroid)
 5. 💪 Opened PR [#504](https://github.com/TeamUltroid/Ultroid/pull/504) in [TeamUltroid/Ultroid](https://github.com/TeamUltroid/Ultroid)
 <!--END_SECTION:activity-->
