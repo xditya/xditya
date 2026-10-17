@@ -66,10 +66,10 @@ Markdown                           42 hrs 57 mins        ⣿⣄⣀⣀⣀⣀⣀�
 ## 💻 Latest Activities
 
 <!--START_SECTION:activity-->
-1. 🚀 Published release [v1.0.0](https://github.com/xditya/jellyfin-liquid-glass/releases/tag/v1.0.0) in [xditya/jellyfin-liquid-glass](https://github.com/xditya/jellyfin-liquid-glass)
-2. 🎉 Merged PR [#4](https://github.com/xditya/portfolio/pull/4) in [xditya/portfolio](https://github.com/xditya/portfolio)
-3. 💪 Opened PR [#4](https://github.com/xditya/portfolio/pull/4) in [xditya/portfolio](https://github.com/xditya/portfolio)
-4. ℹ️ Assigned PR [#504](https://github.com/TeamUltroid/Ultroid/pull/504) in [TeamUltroid/Ultroid](https://github.com/TeamUltroid/Ultroid)
+1. 🚀 Published release [Tomte 0.1.0 beta 1 (not signed)](https://github.com/xditya/tomte-windows/releases/tag/v0.1.0-beta.1) in [xditya/tomte-windows](https://github.com/xditya/tomte-windows)
+2. 🚀 Published release [v1.0.0](https://github.com/xditya/jellyfin-liquid-glass/releases/tag/v1.0.0) in [xditya/jellyfin-liquid-glass](https://github.com/xditya/jellyfin-liquid-glass)
+3. 🎉 Merged PR [#4](https://github.com/xditya/portfolio/pull/4) in [xditya/portfolio](https://github.com/xditya/portfolio)
+4. 💪 Opened PR [#4](https://github.com/xditya/portfolio/pull/4) in [xditya/portfolio](https://github.com/xditya/portfolio)
 5. 💪 Opened PR [#504](https://github.com/TeamUltroid/Ultroid/pull/504) in [TeamUltroid/Ultroid](https://github.com/TeamUltroid/Ultroid)
 <!--END_SECTION:activity-->
 
