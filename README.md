@@ -66,11 +66,11 @@ Markdown                           48 hrs 26 mins        ⣿⣤⣀⣀⣀⣀⣀�
 ## 💻 Latest Activities
 
 <!--START_SECTION:activity-->
-1. 🚀 Published release [Tomte 0.2.1 (not signed)](https://github.com/xditya/tomte-windows/releases/tag/v0.2.1) in [xditya/tomte-windows](https://github.com/xditya/tomte-windows)
-2. ❌ Closed PR [#3](https://github.com/xditya/portfolio/pull/3) in [xditya/portfolio](https://github.com/xditya/portfolio)
-3. 🚀 Published release [Tomte 0.1.0 beta 1 (not signed)](https://github.com/xditya/tomte-windows/releases/tag/v0.1.0-beta.1) in [xditya/tomte-windows](https://github.com/xditya/tomte-windows)
-4. 🚀 Published release [v1.0.0](https://github.com/xditya/jellyfin-liquid-glass/releases/tag/v1.0.0) in [xditya/jellyfin-liquid-glass](https://github.com/xditya/jellyfin-liquid-glass)
-5. 🎉 Merged PR [#4](https://github.com/xditya/portfolio/pull/4) in [xditya/portfolio](https://github.com/xditya/portfolio)
+1. 🚀 Published release [Tomte 0.2.2 (not signed)](https://github.com/xditya/tomte-windows/releases/tag/v0.2.2) in [xditya/tomte-windows](https://github.com/xditya/tomte-windows)
+2. 🚀 Published release [Tomte 0.2.1 (not signed)](https://github.com/xditya/tomte-windows/releases/tag/v0.2.1) in [xditya/tomte-windows](https://github.com/xditya/tomte-windows)
+3. ❌ Closed PR [#3](https://github.com/xditya/portfolio/pull/3) in [xditya/portfolio](https://github.com/xditya/portfolio)
+4. 🚀 Published release [Tomte 0.1.0 beta 1 (not signed)](https://github.com/xditya/tomte-windows/releases/tag/v0.1.0-beta.1) in [xditya/tomte-windows](https://github.com/xditya/tomte-windows)
+5. 🚀 Published release [v1.0.0](https://github.com/xditya/jellyfin-liquid-glass/releases/tag/v1.0.0) in [xditya/jellyfin-liquid-glass](https://github.com/xditya/jellyfin-liquid-glass)
 <!--END_SECTION:activity-->
 
 ---
