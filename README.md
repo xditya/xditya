@@ -66,11 +66,11 @@ JavaScript                         48 hrs 28 mins        ⣿⣤⣀⣀⣀⣀⣀�
 ## 💻 Latest Activities
 
 <!--START_SECTION:activity-->
-1. 🚀 Published release [Tomte 0.2.2 (not signed)](https://github.com/xditya/tomte-windows/releases/tag/v0.2.2) in [xditya/tomte-windows](https://github.com/xditya/tomte-windows)
-2. 🚀 Published release [Tomte 0.2.1 (not signed)](https://github.com/xditya/tomte-windows/releases/tag/v0.2.1) in [xditya/tomte-windows](https://github.com/xditya/tomte-windows)
-3. ❌ Closed PR [#3](https://github.com/xditya/portfolio/pull/3) in [xditya/portfolio](https://github.com/xditya/portfolio)
-4. 🚀 Published release [Tomte 0.1.0 beta 1 (not signed)](https://github.com/xditya/tomte-windows/releases/tag/v0.1.0-beta.1) in [xditya/tomte-windows](https://github.com/xditya/tomte-windows)
-5. 🚀 Published release [v1.0.0](https://github.com/xditya/jellyfin-liquid-glass/releases/tag/v1.0.0) in [xditya/jellyfin-liquid-glass](https://github.com/xditya/jellyfin-liquid-glass)
+1. 🔒 Closed issue [#1](https://github.com/xditya/tomte-windows/issues/1) in [xditya/tomte-windows](https://github.com/xditya/tomte-windows)
+2. 🗣 Commented on [#1](https://github.com/xditya/tomte-windows/issues/1#issuecomment-6538582922) in [xditya/tomte-windows](https://github.com/xditya/tomte-windows)
+3. 🗣 Commented on [#2](https://github.com/xditya/tomte-windows/issues/2#issuecomment-6538452792) in [xditya/tomte-windows](https://github.com/xditya/tomte-windows)
+4. 🔒 Closed issue [#2](https://github.com/xditya/tomte-windows/issues/2) in [xditya/tomte-windows](https://github.com/xditya/tomte-windows)
+5. 🎉 Merged PR [#3](https://github.com/xditya/tomte-windows/pull/3) in [xditya/tomte-windows](https://github.com/xditya/tomte-windows)
 <!--END_SECTION:activity-->
 
 ---
