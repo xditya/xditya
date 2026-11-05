@@ -66,11 +66,11 @@ JavaScript                         48 hrs 28 mins        ⣿⣤⣀⣀⣀⣀⣀�
 ## 💻 Latest Activities
 
 <!--START_SECTION:activity-->
-1. 🚀 Published release [Tomte 0.3.0 (not signed)](https://github.com/xditya/tomte-windows/releases/tag/v0.3.0) in [xditya/tomte-windows](https://github.com/xditya/tomte-windows)
-2. 🔒 Closed issue [#1](https://github.com/xditya/tomte-windows/issues/1) in [xditya/tomte-windows](https://github.com/xditya/tomte-windows)
-3. 🗣 Commented on [#1](https://github.com/xditya/tomte-windows/issues/1#issuecomment-6538582922) in [xditya/tomte-windows](https://github.com/xditya/tomte-windows)
-4. 🗣 Commented on [#2](https://github.com/xditya/tomte-windows/issues/2#issuecomment-6538452792) in [xditya/tomte-windows](https://github.com/xditya/tomte-windows)
-5. 🔒 Closed issue [#2](https://github.com/xditya/tomte-windows/issues/2) in [xditya/tomte-windows](https://github.com/xditya/tomte-windows)
+1. 🔒 Closed issue [#412](https://github.com/TeamUltroid/Ultroid/issues/412) in [TeamUltroid/Ultroid](https://github.com/TeamUltroid/Ultroid)
+2. 🎉 Merged PR [#513](https://github.com/TeamUltroid/Ultroid/pull/513) in [TeamUltroid/Ultroid](https://github.com/TeamUltroid/Ultroid)
+3. 💪 Opened PR [#513](https://github.com/TeamUltroid/Ultroid/pull/513) in [TeamUltroid/Ultroid](https://github.com/TeamUltroid/Ultroid)
+4. 🎉 Merged PR [#512](https://github.com/TeamUltroid/Ultroid/pull/512) in [TeamUltroid/Ultroid](https://github.com/TeamUltroid/Ultroid)
+5. 🔒 Closed issue [#436](https://github.com/TeamUltroid/Ultroid/issues/436) in [TeamUltroid/Ultroid](https://github.com/TeamUltroid/Ultroid)
 <!--END_SECTION:activity-->
 
 ---
