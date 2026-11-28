@@ -66,11 +66,11 @@ JavaScript                         48 hrs 28 mins        ⣿⣤⣀⣀⣀⣀⣀�
 ## 💻 Latest Activities
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#518](https://github.com/TeamUltroid/Ultroid/issues/518#issuecomment-7080003212) in [TeamUltroid/Ultroid](https://github.com/TeamUltroid/Ultroid)
-2. ❌ Closed PR [#516](https://github.com/TeamUltroid/Ultroid/pull/516) in [TeamUltroid/Ultroid](https://github.com/TeamUltroid/Ultroid)
-3. 💪 Opened PR [#517](https://github.com/TeamUltroid/Ultroid/pull/517) in [TeamUltroid/Ultroid](https://github.com/TeamUltroid/Ultroid)
-4. 💪 Opened PR [#516](https://github.com/TeamUltroid/Ultroid/pull/516) in [TeamUltroid/Ultroid](https://github.com/TeamUltroid/Ultroid)
-5. 🔒 Closed issue [#412](https://github.com/TeamUltroid/Ultroid/issues/412) in [TeamUltroid/Ultroid](https://github.com/TeamUltroid/Ultroid)
+1. 🗣 Commented on [#7](https://github.com/xditya/GetRestrictedMessages/pull/7#issuecomment-7235337883) in [xditya/GetRestrictedMessages](https://github.com/xditya/GetRestrictedMessages)
+2. 🗣 Commented on [#518](https://github.com/TeamUltroid/Ultroid/issues/518#issuecomment-7080003212) in [TeamUltroid/Ultroid](https://github.com/TeamUltroid/Ultroid)
+3. ❌ Closed PR [#516](https://github.com/TeamUltroid/Ultroid/pull/516) in [TeamUltroid/Ultroid](https://github.com/TeamUltroid/Ultroid)
+4. 💪 Opened PR [#517](https://github.com/TeamUltroid/Ultroid/pull/517) in [TeamUltroid/Ultroid](https://github.com/TeamUltroid/Ultroid)
+5. 💪 Opened PR [#516](https://github.com/TeamUltroid/Ultroid/pull/516) in [TeamUltroid/Ultroid](https://github.com/TeamUltroid/Ultroid)
 <!--END_SECTION:activity-->
 
 ---
